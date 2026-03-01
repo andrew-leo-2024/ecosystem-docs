@@ -11,11 +11,11 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://ecosystem.frankmax.digital',
-  baseUrl: '/',
+  url: 'https://andrew-leo-2024.github.io',
+  baseUrl: '/ecosystem-docs/',
 
-  organizationName: 'frankmax-digital',
-  projectName: 'ecosystem',
+  organizationName: 'andrew-leo-2024',
+  projectName: 'ecosystem-docs',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
