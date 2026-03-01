@@ -1,0 +1,175 @@
+/**
+ * AINEFF Ecosystem Documentation Theme
+ * Navy (#2F3C7E) / Cherry (#990011) / Off-White (#FCF6F5)
+ */
+
+:root {
+  --ifm-color-primary: #2F3C7E;
+  --ifm-color-primary-dark: #293671;
+  --ifm-color-primary-darker: #27336B;
+  --ifm-color-primary-darkest: #202A58;
+  --ifm-color-primary-light: #35428B;
+  --ifm-color-primary-lighter: #374591;
+  --ifm-color-primary-lightest: #3E4DA4;
+  --ifm-color-secondary: #990011;
+  --ifm-code-font-size: 95%;
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+  --ifm-heading-font-family: 'Georgia', 'Times New Roman', serif;
+  --docusaurus-highlighted-code-line-bg: rgba(47, 60, 126, 0.1);
+  --ifm-background-color: #FCF6F5;
+  --ifm-navbar-background-color: #2F3C7E;
+  --ifm-navbar-link-color: #FCF6F5;
+  --ifm-navbar-link-hover-color: #fff;
+  --ifm-footer-background-color: #1a1a2e;
+  --ifm-footer-color: #FCF6F5;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #7B8CDE;
+  --ifm-color-primary-dark: #6478D8;
+  --ifm-color-primary-darker: #586FD4;
+  --ifm-color-primary-darkest: #3B55C8;
+  --ifm-color-primary-light: #92A0E4;
+  --ifm-color-primary-lighter: #9EA9E8;
+  --ifm-color-primary-lightest: #C1C8F0;
+  --ifm-background-color: #0d1117;
+  --docusaurus-highlighted-code-line-bg: rgba(123, 140, 222, 0.2);
+}
+
+/* Hero Section */
+.hero--primary {
+  background: linear-gradient(135deg, #2F3C7E 0%, #1a1a2e 50%, #990011 100%);
+  padding: 4rem 0;
+  min-height: 70vh;
+  display: flex;
+  align-items: center;
+}
+
+.hero__title {
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: #FCF6F5;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.hero__subtitle {
+  font-size: 1.4rem;
+  color: rgba(252, 246, 245, 0.85);
+  max-width: 700px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+/* Navigation zoom levels */
+.navbar__item {
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* Level indicators in sidebar */
+.theme-doc-sidebar-item-category > .menu__list-item-collapsible > .menu__link {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+}
+
+/* Mermaid diagram styling */
+.docusaurus-mermaid-container {
+  margin: 2rem 0;
+  padding: 1rem;
+  border-radius: 8px;
+  background: rgba(47, 60, 126, 0.03);
+  border: 1px solid rgba(47, 60, 126, 0.1);
+}
+
+[data-theme='dark'] .docusaurus-mermaid-container {
+  background: rgba(123, 140, 222, 0.05);
+  border-color: rgba(123, 140, 222, 0.15);
+}
+
+/* Feature cards on landing page */
+.feature-card {
+  padding: 2rem;
+  border-radius: 12px;
+  background: rgba(47, 60, 126, 0.04);
+  border: 1px solid rgba(47, 60, 126, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+  height: 100%;
+}
+
+.feature-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(47, 60, 126, 0.12);
+}
+
+[data-theme='dark'] .feature-card {
+  background: rgba(123, 140, 222, 0.06);
+  border-color: rgba(123, 140, 222, 0.15);
+}
+
+/* Altitude badge */
+.altitude-badge {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+.altitude-40k { background: #2F3C7E; color: #FCF6F5; }
+.altitude-20k { background: #3E4DA4; color: #FCF6F5; }
+.altitude-10k { background: #5566BB; color: #FCF6F5; }
+.altitude-5k { background: #6B7ACC; color: #FCF6F5; }
+.altitude-1k { background: #990011; color: #FCF6F5; }
+.altitude-ground { background: #CC3333; color: #FCF6F5; }
+.altitude-micro { background: #444; color: #FCF6F5; }
+.altitude-substrate { background: #666; color: #FCF6F5; }
+
+/* Tables */
+table {
+  display: table;
+  width: 100%;
+}
+
+table th {
+  background: rgba(47, 60, 126, 0.08);
+  font-weight: 600;
+}
+
+[data-theme='dark'] table th {
+  background: rgba(123, 140, 222, 0.12);
+}
+
+/* Admonitions */
+.admonition {
+  border-radius: 8px;
+}
+
+/* Zoom level section headers */
+h1 {
+  border-bottom: 3px solid var(--ifm-color-primary);
+  padding-bottom: 0.5rem;
+}
+
+/* Landing page grid */
+.zoom-levels-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 3rem 0;
+}
+
+/* Source map link styling */
+.source-reference {
+  font-size: 0.8rem;
+  color: var(--ifm-color-primary-light);
+  font-style: italic;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(47, 60, 126, 0.15);
+}
