@@ -104,6 +104,18 @@ const config: Config = {
           position: 'left',
           label: 'Knowledge',
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'processesSidebar',
+          position: 'left',
+          label: 'SOPs & Processes',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'guidesSidebar',
+          position: 'left',
+          label: 'Guides & Maps',
+        },
       ],
     },
     footer: {
@@ -131,6 +143,13 @@ const config: Config = {
             { label: 'Technical Architecture', to: '/docs/architecture/' },
             { label: 'Knowledge Substrate', to: '/docs/knowledge/' },
             { label: 'Glossary', to: '/docs/glossary' },
+          ],
+        },
+        {
+          title: 'Operations',
+          items: [
+            { label: 'SOPs & Processes', to: '/docs/processes/' },
+            { label: 'Visual Guides & Maps', to: '/docs/guides/' },
           ],
         },
       ],
