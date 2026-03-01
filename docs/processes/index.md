@@ -53,23 +53,56 @@ Client engagement, capital deployment, and revenue lifecycle management.
 | [Client Engagement Lifecycle](./client-engagement-sop) | From first contact through diagnostic, delivery, expansion, and compounding | 4–12 weeks initial cycle |
 | [Capital Allocation & Investment](./capital-allocation-sop) | Capital request, evaluation, approval, and monitoring procedures | 1–4 weeks per decision |
 
-### Talent
+### Talent & People Operations
 
-Operator onboarding, progression, and lifecycle management.
+Operator onboarding, progression, performance, compensation, and lifecycle management.
 
 | SOP | Description | Typical Duration |
 |-----|-------------|-----------------|
 | [Operator Onboarding & Lifecycle](./operator-onboarding-sop) | 6-stage operator progression from application through capital allocation authority | 6–24 months full progression |
+| [Operator Performance Review](./operator-performance-review-sop) | Quarterly and annual review cycles, promotion/demotion criteria, PIPs | Quarterly cycle |
+| [Compensation Calculation & Settlement](./compensation-settlement-sop) | Income calculation, revenue share, payment processing, and dispute resolution | Bi-weekly/monthly |
+| [Operator Offboarding & Knowledge Transition](./operator-offboarding-sop) | Exit processing, knowledge transfer, credential revocation, final settlement | 2–30 days by exit type |
+
+### Product & Quality
+
+Product development lifecycle, testing, and quality assurance.
+
+| SOP | Description | Typical Duration |
+|-----|-------------|-----------------|
+| [Product Feature Lifecycle](./product-feature-lifecycle-sop) | Idea capture through ICE scoring, sprint planning, development, GA, and retirement | 1–4 week sprint cycles |
+| [Quality Assurance & Testing](./qa-testing-sop) | Test pyramid, coverage thresholds, defect classification, QA gate sign-off | Continuous |
 
 ### Technical Operations
 
-System deployment, incident response, and operational reliability.
+System deployment, incident response, security, integrations, and operational reliability.
 
 | SOP | Description | Typical Duration |
 |-----|-------------|-----------------|
 | [Venture Cell Operations](./venture-cell-sop) | Daily, weekly, monthly, and quarterly rhythms for running a venture cell | Ongoing |
 | [Incident Response & External Shocks](./incident-response-sop) | Severity-graded incident response from P3 (minor) to P0 (existential) | Minutes to weeks |
+| [Security Incident Response](./security-incident-sop) | Data breaches, unauthorized access, key compromise, regulatory notification | Hours to days |
 | [System Deployment & Release](./deployment-sop) | CI/CD pipeline, canary deployment, rollback, and hotfix procedures | Hours to days |
+| [Data Backup & Disaster Recovery](./disaster-recovery-sop) | Backup procedures, RTO/RPO targets, failover, and recovery verification | Continuous / On-demand |
+| [Third-Party Integration & API Management](./api-integration-sop) | API lifecycle, authentication, rate limiting, versioning, and monitoring | Ongoing |
+
+### Commercial & Legal
+
+Client contracts, vendor management, and customer support operations.
+
+| SOP | Description | Typical Duration |
+|-----|-------------|-----------------|
+| [Customer Support Triage & Escalation](./customer-support-sop) | Ticket classification, routing, SLA enforcement, and resolution | Minutes to days |
+| [Client Contract & Legal Review](./contract-review-sop) | Contract lifecycle from template selection through execution and renewal | 1–4 weeks |
+| [Vendor Risk Assessment & Contract](./vendor-management-sop) | Vendor evaluation, onboarding, SLA monitoring, and exit management | 2–8 weeks onboarding |
+
+### Knowledge & Organizational Learning
+
+Knowledge capture, playbook maintenance, and institutional memory.
+
+| SOP | Description | Typical Duration |
+|-----|-------------|-----------------|
+| [Knowledge Capture & Playbook Updates](./knowledge-capture-sop) | Capturing lessons, formalizing playbooks, version control, adoption tracking | Continuous |
 
 ---
 

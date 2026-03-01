@@ -47,6 +47,11 @@ This section answers those questions.
 | [Master Timeline & Milestones](./timeline) | Every timeline in the ecosystem merged into one master view, from Day 1 through Year 20 | Anyone planning execution or evaluating progress |
 | [Visual Glossary](./glossary-visual) | Visual companion to the text glossary -- relationship diagrams for entities, systems, products, and revenue streams | Readers who think visually and want to see how concepts connect |
 | [Source Document Map](./source-map) | Maps every documentation page back to its original source documents | Anyone who wants to trace a claim back to its source material |
+| [Escalation & Authority Matrix](./escalation-matrix) | Visual reference showing decision authority limits by role and operator stage -- spending, technical, client, and governance decisions | Operators who need to know whether they can decide, must escalate, or must not touch a decision |
+| [Incident Classification & Response Matrix](./incident-classification) | Quick-reference for classifying incidents by type and severity, with SOP activation, role activation, and response timelines | Anyone responding to an incident who needs to know what to do and who to notify |
+| [Role-Based SOP Navigation Guide](./role-sop-navigator) | Maps each operator stage to the SOPs they must master, with graduation criteria and learning paths | New operators who need to know exactly which playbooks apply to them |
+| [System Integration Topology Map](./integration-topology) | Visual maps of how all AINEFF systems connect -- data flows, dependency maps, failure propagation, and monitoring points | Technical operators and architects who need to understand system connections and failure paths |
+| [Operator Capability Maturity Checklist](./capability-maturity) | Comprehensive checklists for each stage with assessment rubrics, self-assessment templates, and peer validation requirements | Operators preparing for stage progression and mentors assessing readiness |
 
 ---
 
@@ -58,6 +63,11 @@ This section answers those questions.
 4. **Check the [Timeline](./timeline)** to understand when things happen and how different timelines interleave.
 5. **Consult the [Visual Glossary](./glossary-visual)** when you want to see relationships that the text glossary only describes.
 6. **Reference the [Source Map](./source-map)** when you need to verify a claim or understand the provenance of a documentation page.
+7. **Check the [Escalation Matrix](./escalation-matrix)** before any decision to confirm whether you can act, must escalate, or must not touch it.
+8. **Use the [Incident Classification](./incident-classification)** matrix the moment an incident is detected to determine the right SOP and response protocol.
+9. **Follow the [Role-Based SOP Navigator](./role-sop-navigator)** to build your SOP knowledge systematically as you progress through operator stages.
+10. **Review the [Integration Topology](./integration-topology)** when you need to understand system dependencies, data flows, or failure propagation paths.
+11. **Complete the [Capability Maturity Checklist](./capability-maturity)** quarterly for self-assessment and before requesting stage progression.
 
 ---
 
@@ -85,6 +95,11 @@ graph TB
         TL["Timeline"]
         VG["Visual Glossary"]
         SM["Source Map"]
+        EM["Escalation Matrix"]
+        IC["Incident Classification"]
+        RSN["Role-SOP Navigator"]
+        IT["Integration Topology"]
+        CMC["Capability Maturity"]
     end
 
     V & B & E & S & P & X & A & K -->|"cross-cutting views"| MAP
@@ -93,6 +108,11 @@ graph TB
     X & P -->|"merged timelines"| TL
     E & S & P -->|"relationship diagrams"| VG
     V & B & E & S & P & X & A & K -->|"provenance tracking"| SM
+    X & S -->|"authority mapping"| EM
+    X & S -->|"incident routing"| IC
+    X & K -->|"SOP mapping"| RSN
+    A & S -->|"system connections"| IT
+    X & K -->|"competency assessment"| CMC
 
     style PRIMARY fill:#1a1a2e,stroke:#4a9aba,color:#fff
     style GUIDES fill:#1a2e1a,stroke:#4aba6a,color:#fff
