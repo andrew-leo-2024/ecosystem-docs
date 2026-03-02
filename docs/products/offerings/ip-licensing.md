@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 8
 title: "IP Licensing"
 description: "6-category intellectual property licensing framework — System IP, Product IP, Platform IP, Process IP, Culture IP, and Governance IP with licensing structures and revenue models."
+tags: [product, financial, aineff]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # IP Licensing

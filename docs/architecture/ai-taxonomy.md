@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 10
 title: "AI Model Taxonomy"
 description: "Complete taxonomy of AI approaches — from symbolic logic through statistical learning to neural networks and transformers, with detailed architecture breakdowns, training loops, and the evolutionary chain from foundation models to autonomous agents."
+tags: [architecture, technical, agent]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # AI Model Taxonomy

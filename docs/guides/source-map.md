@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 7
 title: "Source Document Map"
 description: "Maps every documentation page back to its original source documents (1.md through 38.md + PPTX/DOCX/XLSX) — helping readers trace any claim back to its source material."
+tags: [guide, reference]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Source Document Map

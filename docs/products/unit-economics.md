@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 11
 title: "Unit Economics"
 description: "Single Venture Cell economics — revenue modeling, cost structure, margin analysis, 6-month financial model, portfolio projections, and kill criteria."
+tags: [product, financial]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Unit Economics

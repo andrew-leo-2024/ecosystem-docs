@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 6
 title: "Operator Training & Certification"
 description: "Track 1-5 bootcamp offerings — progressive operator development from foundation to mastery, certification paths, scoring rubrics, and career pathway visualization."
+tags: [product, financial, orf]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Operator Training & Certification

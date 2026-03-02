@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 6
 title: "16 AINE Enterprise Systems"
 description: "Complete specification of the 16 enterprise-level systems that power the runtime operation of individual AINE enterprises — from PEP execution through agent management, authorization, compliance, and exit."
+tags: [system, technical, aine]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 16 AINE Enterprise Systems

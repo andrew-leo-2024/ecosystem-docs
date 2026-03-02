@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 2
 title: "AINEFF — Constitutional Law Layer"
 description: "AINEFF is the foundational charter entity of the ecosystem — a non-operating constitutional layer that defines mandate boundaries, authority ceilings, failure thresholds, escalation rules, and death clauses. It never touches money. It never executes."
+tags: [entity, aineff, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # AINEFF — Constitutional Law Layer

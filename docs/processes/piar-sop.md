@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 4
 title: "SOP: Pre-Incident Accountability Review (PIAR)"
 description: "Complete Standard Operating Procedure for conducting a Pre-Incident Accountability Review — the governance mechanism that establishes accountability before irreversible decisions are made, not after."
+tags: [sop, operational, orf, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Pre-Incident Accountability Review (PIAR)

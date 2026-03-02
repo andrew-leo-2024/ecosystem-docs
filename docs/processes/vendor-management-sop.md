@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 16
 title: "SOP: Vendor Risk Assessment & Contract"
 description: "Complete Standard Operating Procedure for vendor management — risk assessment, contract requirements, onboarding, SLA monitoring, quarterly review, concentration risk limits, and emergency replacement procedures for third-party dependencies."
+tags: [sop, operational]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Vendor Risk Assessment &amp; Contract

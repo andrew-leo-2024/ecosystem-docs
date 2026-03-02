@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 7
 title: "Insurance Claims Automation"
 description: "AI claims automation sprint — 60-90 day engagement delivering measurable claims processing improvement with integrated governance telemetry."
+tags: [product, financial, aine]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Insurance Claims Automation

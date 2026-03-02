@@ -1,8 +1,14 @@
 ---
+
 sidebar_position: 4
 slug: 30-day-plan
 title: "30-Day Action Plan"
 description: "Day-by-day execution plan for the first 30 days with $1,000 starting capital — from zero to first revenue, first customers, and first case study."
+tags: [execution, operational, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 30-Day Action Plan

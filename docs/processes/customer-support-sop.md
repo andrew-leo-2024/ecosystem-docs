@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 15
 title: "SOP: Customer Support Triage & Escalation"
 description: "Complete Standard Operating Procedure for customer support — ticket intake, severity-based routing, response time SLAs, escalation paths, resolution authority, and knowledge base maintenance."
+tags: [sop, operational, frankmax]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Customer Support Triage &amp; Escalation

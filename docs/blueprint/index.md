@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 1
 title: Ecosystem Blueprint
 description: High-level overview of the complete AINEFF Ecosystem architecture — 535,856+ lines of strategic documents consolidated into a unified blueprint across 8 interlocking entities and 74 systems.
+tags: [blueprint, strategic, index]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Ecosystem Blueprint

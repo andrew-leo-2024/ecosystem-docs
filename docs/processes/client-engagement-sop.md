@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 7
 title: "SOP: Client Engagement Lifecycle"
 description: "Complete Standard Operating Procedure for the client engagement lifecycle — from first contact through diagnostic, delivery, expansion, and compounding using the CONNECT-ASK-QUANTIFY-OFFER framework."
+tags: [sop, operational, frankmax]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Client Engagement Lifecycle

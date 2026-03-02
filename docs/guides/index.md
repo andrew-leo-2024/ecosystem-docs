@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 1
 title: "Visual Guides & Maps"
 description: "Visual relationship maps, reading guides, and cross-cutting views to help navigate the ecosystem"
+tags: [guide, reference, index]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Visual Guides & Maps

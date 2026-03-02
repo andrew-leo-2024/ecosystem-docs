@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 3
 title: "AINEF OS — Controlled Venture Production Infrastructure"
 description: "AINEF OS is a controlled venture production infrastructure — not a bootcamp, not a venture studio, not an AI platform. It is a semiconductor fab for ventures: precision-engineered, capital-envelope-bound, policy-constrained production of economic entities."
+tags: [entity, ainef-os]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # AINEF OS — Controlled Venture Production Infrastructure

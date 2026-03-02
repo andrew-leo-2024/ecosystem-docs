@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 9
 title: "KPI Dashboard"
 description: "12 key performance indicators with weekly and monthly tracking, conditional formatting thresholds (Green/Yellow/Red), and the measurement system that prevents vanity metrics."
+tags: [execution, operational, financial]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # KPI Dashboard

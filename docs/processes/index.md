@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 1
 title: "Processes, SOPs & Workflows"
 description: "Standard operating procedures, BPMN process flows, and operational workflows for every critical ecosystem function"
+tags: [sop, operational, index]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Processes, SOPs & Workflows

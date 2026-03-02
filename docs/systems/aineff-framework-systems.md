@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 3
 title: "12 AINEFF Framework Systems"
 description: "The 12 constitutional-level framework systems that define the ontological, taxonomic, and axiomatic foundation of the AINEFF Ecosystem — the bedrock upon which all other systems are built."
+tags: [system, technical, aineff]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 12 AINEFF Framework Systems

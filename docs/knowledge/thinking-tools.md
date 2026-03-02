@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 2
 title: "60+ Thinking Tools"
 description: "A comprehensive inventory of 60+ structured thinking tools organized by category — from first-principles decomposition to meta-cognitive bias catalogs — forming the cognitive toolkit of the AINEFF Ecosystem."
+tags: [knowledge, reference]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 60+ Thinking Tools

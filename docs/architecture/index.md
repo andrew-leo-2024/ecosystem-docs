@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 1
 title: "Technical Architecture"
 description: "End-to-end architecture overview of the AINEFF Ecosystem — from constitutional framework through enterprise instantiation to workforce execution and consumer delivery."
+tags: [architecture, technical, index]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Technical Architecture

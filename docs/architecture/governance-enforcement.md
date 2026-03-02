@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 11
 title: "Governance Enforcement Architecture"
 description: "Architecture of governance enforcement systems — PAME, ICG, CCRS, audit aggregators, monetization leakage detection, response ladders, illegal pattern detection, and stress testing."
+tags: [architecture, technical, governance, aineff]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Governance Enforcement Architecture

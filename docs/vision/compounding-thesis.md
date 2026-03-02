@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 7
 title: "The Compounding Engine"
 description: "Seven compounding assets, five sequential network effects, three kinds of leverage, and the daily engine that turns every interaction into infrastructure value."
+tags: [vision, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # The Compounding Engine

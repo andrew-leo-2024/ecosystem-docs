@@ -24,12 +24,47 @@ const config: Config = {
     mermaid: true,
   },
 
-  themes: ['@docusaurus/theme-mermaid'],
+  themes: [
+    '@docusaurus/theme-mermaid',
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        highlightSearchTermsOnTargetPage: true,
+        searchResultLimits: 12,
+        docsRouteBasePath: '/docs',
+      },
+    ],
+  ],
+
+  plugins: [
+    'docusaurus-plugin-image-zoom',
+    [
+      '@docusaurus/plugin-pwa',
+      {
+        debug: false,
+        offlineModeActivationStrategies: ['appInstalled', 'standalone', 'queryString'],
+        pwaHead: [
+          { tagName: 'link', rel: 'manifest', href: '/ecosystem-docs/manifest.json' },
+          { tagName: 'meta', name: 'theme-color', content: '#2F3C7E' },
+          { tagName: 'meta', name: 'apple-mobile-web-app-capable', content: 'yes' },
+          { tagName: 'meta', name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' },
+        ],
+      },
+    ],
+  ],
 
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: { name: 'keywords', content: 'AINEFF, ecosystem, constitutional, governance, enterprise coordination, ORF protocol, atomic constraint' },
+    },
+  ],
 
   presets: [
     [
@@ -37,11 +72,25 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          showLastUpdateTime: false,
+          editUrl: 'https://github.com/andrew-leo-2024/ecosystem-docs/edit/master/',
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
+          tags: 'tags.yml',
         },
-        blog: false,
+        blog: {
+          showReadingTime: true,
+          blogTitle: 'Ecosystem Updates',
+          blogDescription: 'Changelog and updates for the AINEFF Ecosystem documentation.',
+          blogSidebarTitle: 'Recent Updates',
+          blogSidebarCount: 'ALL',
+        },
         theme: {
           customCss: './src/css/custom.css',
+        },
+        sitemap: {
+          lastmod: 'date',
+          changefreq: 'weekly',
+          priority: 0.5,
         },
       } satisfies Preset.Options,
     ],
@@ -49,9 +98,27 @@ const config: Config = {
 
   themeConfig: {
     image: 'img/social-card.jpg',
+    metadata: [
+      { name: 'og:type', content: 'website' },
+      { name: 'twitter:card', content: 'summary_large_image' },
+    ],
+    announcementBar: {
+      id: 'v1_launch',
+      content: '<strong>AINEFF Ecosystem v1.0</strong> — 124 pages of constitutional infrastructure documentation.',
+      backgroundColor: '#990011',
+      textColor: '#FCF6F5',
+      isCloseable: true,
+    },
     colorMode: {
       defaultMode: 'dark',
       respectPrefersColorScheme: true,
+    },
+    zoom: {
+      selector: '.markdown img',
+      background: {
+        light: 'rgba(255, 255, 255, 0.9)',
+        dark: 'rgba(13, 17, 23, 0.9)',
+      },
     },
     navbar: {
       title: 'AINEFF Ecosystem',
@@ -116,6 +183,9 @@ const config: Config = {
           position: 'left',
           label: 'Guides & Maps',
         },
+        { to: '/docs/tags', label: 'Tags', position: 'right' },
+        { to: '/blog', label: 'Updates', position: 'right' },
+        { to: '/dashboard', label: 'Dashboard', position: 'right' },
       ],
     },
     footer: {
@@ -150,6 +220,7 @@ const config: Config = {
           items: [
             { label: 'SOPs & Processes', to: '/docs/processes/' },
             { label: 'Visual Guides & Maps', to: '/docs/guides/' },
+            { label: 'Governance Dashboard', to: '/dashboard' },
           ],
         },
       ],
@@ -158,6 +229,18 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+      additionalLanguages: ['bash', 'json', 'yaml', 'toml', 'sql', 'python', 'go'],
+      magicComments: [
+        {
+          className: 'theme-code-block-highlighted-line',
+          line: 'highlight-next-line',
+          block: { start: 'highlight-start', end: 'highlight-end' },
+        },
+        {
+          className: 'code-block-error-line',
+          line: 'error-next-line',
+        },
+      ],
     },
     mermaid: {
       theme: { light: 'neutral', dark: 'dark' },

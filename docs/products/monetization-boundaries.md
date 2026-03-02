@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 10
 title: "Monetization Boundaries & Rules"
 description: "Constitutional monetization rules — layer-by-layer monetization permissions, 8 illegal patterns, leakage detection systems, and enforcement response ladder."
+tags: [product, financial, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Monetization Boundaries & Rules

@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 7
 title: Energy / Capital / Information Triad
 description: The three fundamental levers of civilizational control in the AINEFF Ecosystem — Energy, Capital, and Information — and the feedback loops that bind them into a self-reinforcing system.
+tags: [blueprint, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Energy / Capital / Information Triad

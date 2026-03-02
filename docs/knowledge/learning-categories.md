@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 4
 title: "Learning Domain Taxonomy"
 description: "A comprehensive taxonomy of all human learning domains — from languages to quantum computing — feeding the Skills Ontology that powers every role, team, and capability assignment in the AINEFF Ecosystem."
+tags: [knowledge, reference]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Learning Domain Taxonomy

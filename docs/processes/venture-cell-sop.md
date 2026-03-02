@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 5
 title: "SOP: Venture Cell Operations"
 description: "Complete Standard Operating Procedure for running a venture cell — daily rhythms, weekly reviews, monthly assessments, quarterly phase gates, and escalation procedures."
+tags: [sop, operational, aine]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Venture Cell Operations

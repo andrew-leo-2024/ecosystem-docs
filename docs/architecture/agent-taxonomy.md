@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 2
 title: "Agent Taxonomy"
 description: "Complete classification of agents in the AINEFF Ecosystem — from primitive capabilities through composite job roles to meta-role governance agents, with lifecycle management and scope enforcement."
+tags: [architecture, technical, agent]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Agent Taxonomy

@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 1
 title: "DocuFlow Agent"
 description: "Compliance & Documentation Automation micro-SaaS — multi-agent AI system for consultants, legal, coaching, accounting, real estate, and agencies."
+tags: [product, financial, frankmax]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # DocuFlow Agent

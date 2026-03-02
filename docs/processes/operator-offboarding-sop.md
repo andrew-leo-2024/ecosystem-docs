@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 24
 title: "SOP: Operator Offboarding & Knowledge Transition"
 description: "Complete Standard Operating Procedure for operator offboarding — including exit classification, knowledge transfer, client transition, credential revocation, final settlement, and alumni relationship management."
+tags: [sop, operational, orf]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Operator Offboarding & Knowledge Transition

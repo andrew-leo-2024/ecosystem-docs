@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 3
 title: "Reading Guide — Where to Start"
 description: "Guided reading paths for 8 different audiences — investors, regulators, enterprise buyers, operators, technical architects, governance professionals, founders, and full deep-dive readers."
+tags: [guide, reference]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Reading Guide -- Where to Start

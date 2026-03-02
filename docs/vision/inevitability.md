@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 6
 title: "Inevitability Framework"
 description: "The four conditions for global inevitability, the three positions that produce cross-epoch dominance, and the Scarcity Migration Chain from memory to responsibility."
+tags: [vision, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Inevitability Framework

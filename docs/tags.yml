@@ -1,0 +1,88 @@
+# Altitude Levels
+vision:
+  label: "Vision (40k)"
+  description: "40,000ft vision and philosophy documents"
+blueprint:
+  label: "Blueprint (20k)"
+  description: "20,000ft ecosystem blueprint and coordination layers"
+entity:
+  label: "Entity (10k)"
+  description: "10,000ft entity definitions and platform specifications"
+system:
+  label: "System (5k)"
+  description: "5,000ft systems and module specifications"
+product:
+  label: "Product (1k)"
+  description: "1,000ft products, revenue, and market documents"
+execution:
+  label: "Execution (Ground)"
+  description: "Ground-level execution plans and operations"
+architecture:
+  label: "Architecture (Micro)"
+  description: "Microscopic technical architecture specifications"
+knowledge:
+  label: "Knowledge (Substrate)"
+  description: "Knowledge substrate and foundational thinking"
+
+# Content Types
+sop:
+  label: "SOP"
+  description: "Standard Operating Procedures"
+governance:
+  label: "Governance"
+  description: "Governance rules, constraints, and constitutional documents"
+financial:
+  label: "Financial"
+  description: "Financial models, pricing, revenue, and capital documents"
+technical:
+  label: "Technical"
+  description: "Technical specifications and implementation details"
+operational:
+  label: "Operational"
+  description: "Operational processes and workflows"
+strategic:
+  label: "Strategic"
+  description: "Strategic planning and long-term direction"
+risk:
+  label: "Risk"
+  description: "Risk management, kill criteria, and incident response"
+agent:
+  label: "Agent"
+  description: "AI agent design, taxonomy, and architecture"
+
+# Domains
+aineff:
+  label: "AINEFF"
+  description: "AINEFF constitutional framework layer"
+aineg:
+  label: "AINEG"
+  description: "AINEG group coordination layer"
+ainef-os:
+  label: "AINEF-OS"
+  description: "AINEF-OS factory and platform layer"
+frankmax:
+  label: "FrankMax"
+  description: "FrankMax Digital execution entity"
+aine:
+  label: "AINE"
+  description: "AINE enterprise instances"
+orf:
+  label: "ORF Protocol"
+  description: "Operator-Regulator-Factory protocol"
+wge:
+  label: "WGE"
+  description: "Workforce Governance Engine"
+
+# Cross-cutting
+atomic-constraint:
+  label: "Atomic Constraint"
+  description: "Documents relating to the foundational atomic constraint"
+reference:
+  label: "Reference"
+  description: "Reference materials, glossaries, and navigation aids"
+guide:
+  label: "Guide"
+  description: "Visual guides, maps, and reading paths"
+index:
+  label: "Index"
+  description: "Section index and overview pages"

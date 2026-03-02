@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 10
 title: "Role-Based SOP Navigation Guide"
 description: "Maps each operator stage (Stage 1-6) to the SOPs and procedures they need to know — mandatory reading, decision authority, escalation requirements, and graduation criteria."
+tags: [guide, reference, orf]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Role-Based SOP Navigation Guide

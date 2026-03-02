@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 2
 title: "The Atomic Constraint"
 description: "The foundational, irreducible principle from which all AINEFF governance derives: no irreversible action without a bound human liability bearer."
+tags: [vision, strategic, atomic-constraint, governance, aineff]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # The Atomic Constraint

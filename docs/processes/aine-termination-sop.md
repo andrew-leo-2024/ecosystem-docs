@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 3
 title: "SOP: AINE Termination & Exit"
 description: "Complete Standard Operating Procedure for terminating an AINE — including emergency kill, orderly wind-down, data disposition, PEP key destruction, financial settlement, and legal dissolution."
+tags: [sop, operational, aine, governance, risk]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: AINE Termination & Exit

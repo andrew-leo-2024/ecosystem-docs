@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 8
 title: "Escalation & Authority Matrix"
 description: "Visual reference showing decision authority limits by role and operator stage — spending limits, technical decisions, client decisions, and governance decisions with escalation paths."
+tags: [guide, reference, risk, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Escalation & Authority Matrix

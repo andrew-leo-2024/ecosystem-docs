@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 10
 title: "Sales Conversation Framework"
 description: "The CONNECT-ASK-QUANTIFY-OFFER methodology for converting conversations into revenue — buyer personas, objection handling, and the discipline of listening more than speaking."
+tags: [execution, operational, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Sales Conversation Framework

@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 8
 title: "Agentic User Experience"
 description: "The three experience layers for autonomous AI interaction — being understood, delegation, and accountability — defining the UX principles for the shift from 'I do this' to 'I approve this.'"
+tags: [knowledge, agent]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Agentic User Experience

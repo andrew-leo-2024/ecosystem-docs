@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 10
 title: "Factory Byproduct Economy"
 description: "The 11 service layers that emerge as natural byproducts of the AINEF Factory — from Capability-as-a-Service to Infrastructure Exhaust Products. Each is a revenue-generating business that costs almost nothing to create because the factory already produces the underlying capability."
+tags: [system, technical, ainef-os]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Factory Byproduct Economy

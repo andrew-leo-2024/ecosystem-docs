@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 22
 title: "SOP: Third-Party Integration & API Management"
 description: "Complete Standard Operating Procedure for managing third-party integrations and APIs — including integration lifecycle, authentication standards, rate limiting, error handling, webhook management, version deprecation, and monitoring."
+tags: [sop, operational, technical]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Third-Party Integration & API Management

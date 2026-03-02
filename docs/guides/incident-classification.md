@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 9
 title: "Incident Classification & Response Matrix"
 description: "Quick-reference visual for classifying incidents by type and severity, knowing which SOP to activate, which roles respond, and what the response timeline looks like."
+tags: [guide, reference, risk]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Incident Classification & Response Matrix

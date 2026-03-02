@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 9
 title: "SOP: Incident Response & External Shocks"
 description: "Complete Standard Operating Procedure for incident response — severity-graded from P3 (minor) to P0 (existential), including communication protocols, escalation procedures, and forensic replay."
+tags: [sop, operational, risk]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Incident Response & External Shocks

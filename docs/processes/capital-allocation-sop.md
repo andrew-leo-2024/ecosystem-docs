@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 11
 title: "SOP: Capital Allocation & Investment"
 description: "Complete Standard Operating Procedure for capital deployment — request submission, evaluation criteria, approval workflow, envelope management, monitoring, and reallocation triggers."
+tags: [sop, operational, financial, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Capital Allocation & Investment

@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 6
 title: "Work Genesis Engine"
 description: "The Work Genesis Engine (WGE) is the swarm coordination layer of the AINEFF Ecosystem — orchestrating self-organizing networks of venture cells, functional groups, and industry verticals with programmable mandates, governance fatigue safeguards, and external shock protocols."
+tags: [entity, wge]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Work Genesis Engine

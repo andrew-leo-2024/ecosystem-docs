@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 5
 title: "Pre-Incident Accountability Review (PIAR)"
 description: "Mandatory governance entry point — determines if a decision survives investigation BEFORE approval through authority mapping, kill criteria, and forensic replay architecture."
+tags: [product, financial, orf, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Pre-Incident Accountability Review (PIAR)

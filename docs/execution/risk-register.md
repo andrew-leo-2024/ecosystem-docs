@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 7
 title: "Risk Register"
 description: "Top 20 risks facing the AINEFF Ecosystem with probability, impact, category, mitigation strategies, and trigger indicators — from founder burnout to regulatory shift."
+tags: [execution, operational, risk]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Risk Register

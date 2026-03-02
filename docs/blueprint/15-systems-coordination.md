@@ -1,8 +1,14 @@
 ---
+
 sidebar_position: 8
 slug: 15-systems-coordination
 title: 15 Systems of Coordination
 description: The 15 systems of Frankmax coordination — the governance infrastructure that enables the AINEFF Ecosystem to self-govern without centralized authority, from immutable records to deliberate human discipline.
+tags: [blueprint, strategic, system]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 15 Systems of Coordination

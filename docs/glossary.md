@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 100
 title: "Glossary"
 description: "Complete alphabetical glossary of all acronyms, terms, and concepts used across the AINEFF Ecosystem documentation — from ACTS to WGE."
+tags: [reference]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Glossary

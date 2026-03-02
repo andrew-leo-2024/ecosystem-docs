@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 3
 title: "6 Market Wedges"
 description: "Detailed analysis of 6 target verticals — Manufacturing, Logistics, Professional Services, Banking, Construction, and Healthcare — with market sizing, entry products, and expansion paths."
+tags: [product, financial, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 6 Market Wedges

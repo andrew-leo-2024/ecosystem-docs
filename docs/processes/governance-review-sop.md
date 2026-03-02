@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 8
 title: "SOP: Governance Review & Rule Changes"
 description: "Complete Standard Operating Procedure for proposing, approving, and implementing governance rule changes — including operational, capital, and constitutional tiers with rule entropy monitoring."
+tags: [sop, operational, governance, aineff]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Governance Review & Rule Changes

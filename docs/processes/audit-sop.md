@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 10
 title: "SOP: Audit & Compliance Procedures"
 description: "Complete Standard Operating Procedure for audit operations — internal continuous monitoring, external regulator audits, court verification, insurance audits, and monetization leakage detection."
+tags: [sop, operational, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Audit & Compliance Procedures

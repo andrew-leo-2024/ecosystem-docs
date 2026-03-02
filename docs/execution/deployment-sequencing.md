@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 12
 title: "Deployment & Rollout Strategy"
 description: "Global deployment sequencing, country rollout order, backlash management, Big-4 disruption timeline, counter-move analysis, and the 2-5 year professional transition window."
+tags: [execution, operational, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Deployment & Rollout Strategy

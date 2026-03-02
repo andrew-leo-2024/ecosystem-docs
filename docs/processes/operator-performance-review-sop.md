@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 19
 title: "SOP: Operator Performance Review"
 description: "Complete Standard Operating Procedure for quarterly and annual performance review cycles for operators at all 6 stages — including review criteria, promotion procedures, demotion triggers, performance improvement plans, and skill gap remediation."
+tags: [sop, operational, orf]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Operator Performance Review

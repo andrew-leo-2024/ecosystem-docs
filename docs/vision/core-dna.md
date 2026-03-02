@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 3
 title: "18 Core Strategic DNA Principles"
 description: "The 18 irreducible principles that define the constitutional DNA of the AINEFF Ecosystem — from enterprise mortality to the Anti-ASI Clause."
+tags: [vision, strategic, aineff]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 18 Core Strategic DNA Principles

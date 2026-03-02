@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 2
 title: Entity Hierarchy
 description: Complete ontological hierarchy of the AINEFF Ecosystem — from constitutional law layer down to atomic skill primitives, covering 8 structural levels and 12+ subtypes.
+tags: [blueprint, strategic, entity, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Entity Hierarchy

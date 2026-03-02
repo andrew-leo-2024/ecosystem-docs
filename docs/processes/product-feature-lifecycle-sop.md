@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 13
 title: "SOP: Product Feature Lifecycle"
 description: "Complete Standard Operating Procedure for the product feature lifecycle — from idea conception through prioritization, development, testing, deployment, monitoring, and retirement using ICE scoring, feature flags, and kill-or-iterate decision frameworks."
+tags: [sop, operational, frankmax]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Product Feature Lifecycle

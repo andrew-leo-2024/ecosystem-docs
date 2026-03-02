@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 12
 title: "SOP: System Deployment & Release"
 description: "Complete Standard Operating Procedure for deploying systems — CI/CD pipeline, three architecture zones, canary deployment, rollback procedures, feature flags, and emergency hotfixes."
+tags: [sop, operational, technical]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: System Deployment & Release

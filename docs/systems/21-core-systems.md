@@ -1,8 +1,14 @@
 ---
+
 sidebar_position: 2
 slug: 21-core-systems
 title: "21 Core AINEFF Systems"
 description: "Detailed specifications for the 21 core systems that form the structural backbone of the AINEFF Ecosystem — spanning control planes, registries, audit trails, compliance engines, and governance kernels."
+tags: [system, technical, aineff]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 21 Core AINEFF Systems

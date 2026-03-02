@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 1
 title: "Systems & Modules Overview"
 description: "Complete overview of all 74 systems in the AINEFF Ecosystem — organized by layer, prioritized by build sequence, and mapped to the constitutional coordination protocol."
+tags: [system, technical, index]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Systems & Modules Overview

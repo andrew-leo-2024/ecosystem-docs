@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 8
 title: "LevelUpMax — Talent Refinery & Certification Authority"
 description: "LevelUpMax is a controlled talent refinery converting raw ambition into governed execution capacity — with a 6-stage operator lifecycle, 5-track bootcamp system, and a 10-20 year vision to become the global AI Risk Certification Authority."
+tags: [entity, frankmax]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # LevelUpMax — Talent Refinery & Certification Authority

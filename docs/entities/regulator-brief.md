@@ -1,7 +1,13 @@
 ---
+
 title: "Regulator Brief"
 sidebar_position: 11
 description: "A concise walkthrough of the AINEFF Ecosystem designed for regulators, mapping to existing regulatory frameworks"
+tags: [entity, governance, orf]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Regulator Brief

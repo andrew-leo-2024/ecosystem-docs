@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 5
 title: "Belief Systems Taxonomy"
 description: "A comprehensive taxonomy of human belief systems — religious, philosophical, political, economic, ethical, spiritual, and epistemological — feeding the System of Meaning and informing AINEFF's constitutional neutrality."
+tags: [knowledge, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Belief Systems Taxonomy

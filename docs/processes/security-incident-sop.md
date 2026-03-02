@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 18
 title: "SOP: Security Incident Response"
 description: "Complete Standard Operating Procedure for security incident response — breach classification, containment, forensic evidence preservation, notification timelines, regulatory reporting, and the Atomic Constraint requiring human liability for every security action."
+tags: [sop, operational, risk, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Security Incident Response

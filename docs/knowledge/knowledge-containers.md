@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 3
 title: "Knowledge Container Taxonomy"
 description: "A comprehensive taxonomy of every form in which knowledge exists, persists, and propagates — from raw notes to institutional memory, from algorithms to silence — forming the container ontology of the AINEFF Ecosystem."
+tags: [knowledge, ainef-os]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Knowledge Container Taxonomy

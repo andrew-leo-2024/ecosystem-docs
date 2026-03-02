@@ -1,8 +1,14 @@
 ---
+
 sidebar_position: 4
 slug: 5-layer-monopoly
 title: 5-Layer Monopoly Blueprint
 description: The 5-layer strategic lock-in architecture of the AINEFF Ecosystem — how defensible moats form across intelligence abstraction, memory, execution, identity, and physical-world control.
+tags: [blueprint, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 5-Layer Monopoly Blueprint

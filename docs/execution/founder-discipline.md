@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 5
 title: "Founder Discipline Doctrine"
 description: "The personal operating system for the founding period — weekly rhythm, daily cadence, seven iron rules, irreversibility tests, and the exit test that proves the ecosystem can survive without you."
+tags: [execution, operational, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Founder Discipline Doctrine

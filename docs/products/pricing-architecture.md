@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 9
 title: "Pricing Architecture"
 description: "Cross-product pricing strategy — upsell ladder from $5K diagnostics to $500K+ enterprise deployments, pricing by device class, and value-based pricing principles."
+tags: [product, financial]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Pricing Architecture

@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 9
 title: "Enterprise Manufacturing System (EMS)"
 description: "Full PRD for the Enterprise Manufacturing System — the factory that produces AINEs as atomic governed enterprises with CI/CD pipelines, mandatory artifacts, and Documentation-as-Code."
+tags: [architecture, technical, ainef-os]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Enterprise Manufacturing System (EMS)

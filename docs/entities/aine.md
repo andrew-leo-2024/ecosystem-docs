@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 5
 title: "AINE — Single Productive Enterprise"
 description: "AINE is the legal, economic, and operational unit of the AINEFF Ecosystem — the entity that generates revenue, serves clients, and produces value. Every AINE operates within constitutional constraints inherited from AINEFF, produced by AINEF OS, and coordinated through AINEG."
+tags: [entity, aine]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # AINE — Single Productive Enterprise

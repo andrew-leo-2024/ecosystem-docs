@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 13
 title: "Deployment Infrastructure"
 description: "Complete deployment infrastructure architecture — GKE for full AINEs, Cloud Run for AINE-Lite, CI/CD pipelines, Golden Repo Template, architecture zones, guardrails, and Documentation-as-Code."
+tags: [architecture, technical, operational]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Deployment Infrastructure

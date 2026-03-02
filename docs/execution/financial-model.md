@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 8
 title: "Financial Model"
 description: "3-year financial projection for the AINEFF Ecosystem — from $1,000 starting capital to $3.4M annual revenue, with monthly detail, cost structure, margins, and break-even analysis."
+tags: [execution, operational, financial]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Financial Model

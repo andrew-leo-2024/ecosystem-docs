@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 3
 title: "Governance Gap Analyzer"
 description: "5-question governance maturity assessment tool — risk exposure estimation, gap identification, and upsell qualification for the AINEFF product suite."
+tags: [product, financial, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Governance Gap Analyzer

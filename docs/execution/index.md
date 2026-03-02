@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 1
 title: "Execution & Operations"
 description: "The execution doctrine for the AINEFF Ecosystem — from $0 revenue and 0 customers to civilization-scale infrastructure through disciplined, sequential, non-negotiable operational cadence."
+tags: [execution, operational, index]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Execution & Operations

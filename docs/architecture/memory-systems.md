@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 6
 title: "Memory Architecture"
 description: "Complete memory system architecture for the AINEFF Ecosystem — short-term, long-term, episodic, semantic, and working memory with decay rules, disposition protocols, and the Orchestrated Memory Graph."
+tags: [architecture, technical, agent]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Memory Architecture

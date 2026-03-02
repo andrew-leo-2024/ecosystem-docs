@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 7
 title: "6 External Oversight Systems"
 description: "Complete specification of the 6 external oversight systems that enable courts, regulators, insurers, the public, affected parties, and intergovernmental bodies to inspect, audit, price, and seek redress from the AINEFF Ecosystem."
+tags: [system, technical, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 6 External Oversight Systems

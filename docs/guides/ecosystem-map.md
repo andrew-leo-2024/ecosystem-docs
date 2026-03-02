@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 2
 title: "Complete Ecosystem Map"
 description: "Master visual guide showing how everything connects -- entities, data flow, money flow, talent flow, governance flow, and technology stack in one unified view."
+tags: [guide, reference]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Complete Ecosystem Map

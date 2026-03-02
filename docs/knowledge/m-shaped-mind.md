@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 7
 title: "The M-Shaped Mind"
 description: "The cognitive architecture that thrives in wicked, rule-changing environments — a governance-aware generalist with deep execution spikes — and its application to AINEFF operator development and talent selection."
+tags: [knowledge, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # The M-Shaped Mind

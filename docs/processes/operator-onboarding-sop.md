@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 6
 title: "SOP: Operator Onboarding & Lifecycle"
 description: "Complete Standard Operating Procedure for the 6-stage operator lifecycle — from application screening through capital allocation authority, including promotion criteria, demotion triggers, and income scaling."
+tags: [sop, operational, orf]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Operator Onboarding & Lifecycle

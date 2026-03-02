@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 4
 title: "21 AINEF Factory Systems"
 description: "Complete specification of the 21 factory-level systems that manufacture, validate, assemble, and govern the lifecycle of every AINE enterprise — from genome design through key destruction."
+tags: [system, technical, ainef-os]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 21 AINEF Factory Systems

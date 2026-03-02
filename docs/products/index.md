@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 1
 title: "Products, Revenue & Markets"
 description: "Revenue Architecture Overview — 25+ revenue streams organized by phase activation and confidence score across the AINEFF Ecosystem."
+tags: [product, financial, index]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Products, Revenue & Markets

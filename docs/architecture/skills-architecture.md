@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 5
 title: "Skills as First-Class Citizens"
 description: "Complete architecture of skills in the AINEFF Ecosystem — from atomic capabilities through composed skills to productized Micro-SaaS, with execution primitives, portability, decay, and revocation."
+tags: [architecture, technical, agent]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Skills as First-Class Citizens

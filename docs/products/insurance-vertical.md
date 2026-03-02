@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 4
 title: "Insurance Vertical Deep Dive"
 description: "Primary market wedge analysis — insurance claims automation, founding client model, ROI calculations, competitive landscape, and strategic data gravity positioning."
+tags: [product, financial, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Insurance Vertical Deep Dive

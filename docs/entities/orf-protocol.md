@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 9
 title: "ORF — Obligation & Responsibility Finality Protocol"
 description: "ORF is the obligation-netting and settlement-normalization protocol at the core of the centi-trillion thesis — global infrastructure where money stays domestic but obligations cross borders, enabling treaty-grade financial coordination."
+tags: [entity, orf, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # ORF — Obligation & Responsibility Finality Protocol

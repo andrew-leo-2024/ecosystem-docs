@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 4
 title: "Decision Trees & Flowcharts"
 description: "Key decision trees visualized as flowcharts — should we build this, should we kill this, which market to enter, which product to offer, which operator track, how to classify a rule change, incident severity, and investment evaluation."
+tags: [guide, reference, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Decision Trees & Flowcharts

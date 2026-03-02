@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 8
 title: "E2E Application Architecture"
 description: "Complete catalog of applications across every layer of the AINEFF Ecosystem — from constitutional framework apps through enterprise runtime to consumer Micro-SaaS products."
+tags: [architecture, technical, ainef-os]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # E2E Application Architecture

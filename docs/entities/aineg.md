@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 4
 title: "AINEG — Group / Portfolio / Federation"
 description: "AINEG is the portfolio and federation layer of the AINEFF Ecosystem — coordinating across enterprises, industries, jurisdictions, and sovereign boundaries through four distinct subtypes. Money must never sit at the same layer as coordination authority."
+tags: [entity, aineg]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # AINEG — Group / Portfolio / Federation

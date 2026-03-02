@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 17
 title: "SOP: Data Backup & Disaster Recovery"
 description: "Complete Standard Operating Procedure for data backup and disaster recovery — backup frequency, encryption standards, RTO/RPO targets by system tier, test restore procedures, failover activation, and recovery priority ordering."
+tags: [sop, operational, risk]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Data Backup &amp; Disaster Recovery

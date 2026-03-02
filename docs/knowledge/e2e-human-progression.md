@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 6
 title: "E2E Human Progression Model"
 description: "The complete 16-phase End-to-End Human Progression Model — from ignorance through execution to institutional permanence — mapping the developmental arc that the AINEFF Human Management System tracks and supports."
+tags: [knowledge, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # E2E Human Progression Model

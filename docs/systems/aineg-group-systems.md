@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 5
 title: "11 AINEG Group Systems"
 description: "Complete specification of the 11 group-level systems that federate, coordinate, and govern collections of AINE enterprises — managing registries, risk contagion, contracts, and capital settlement."
+tags: [system, technical, aineg]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 11 AINEG Group Systems

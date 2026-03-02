@@ -1,8 +1,14 @@
 ---
+
 sidebar_position: 3
 slug: 90-day-sprint
 title: "90-Day Sprint Plan"
 description: "Week-by-week execution plan for the first 90 days — from zero revenue to $85K cumulative, 6 deals closed, DocuFlow live, and operator playbook documented."
+tags: [execution, operational, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 90-Day Sprint Plan

@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 1
 title: "Entities & Platforms"
 description: "Overview of all interlocking entities in the AINEFF Ecosystem — from constitutional law to productive enterprises, governance substrates to talent refineries, and the brand vehicles that deliver value to end markets."
+tags: [entity, index]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Entities & Platforms

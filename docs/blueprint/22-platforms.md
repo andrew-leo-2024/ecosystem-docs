@@ -1,8 +1,14 @@
 ---
+
 sidebar_position: 5
 slug: 22-platforms
 title: 22-Platform Build Sequence
 description: The complete 22-platform implementation roadmap of the AINEFF Ecosystem — from intelligence abstraction to civilizational governance, sequenced across three strategic phases.
+tags: [blueprint, strategic, technical]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 22-Platform Build Sequence

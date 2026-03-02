@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 6
 title: Three-Domain Strategy
 description: The three interlocking market domains of the AINEFF Ecosystem — Trust (andrewfranklinleo.com), Revenue (frankmax.digital), and Talent (levelup-max.com) — and the flywheel that connects them.
+tags: [blueprint, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Three-Domain Strategy

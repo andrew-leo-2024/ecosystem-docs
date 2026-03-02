@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 12
 title: "Enterprise Wedge Strategy"
 description: "Corporate Wedge Generator — 90-day proof engine for mid-market enterprise, anti-positioning, sales process, and expansion architecture."
+tags: [product, financial, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Enterprise Wedge Strategy

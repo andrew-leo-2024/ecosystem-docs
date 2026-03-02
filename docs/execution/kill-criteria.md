@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 6
 title: "Kill Discipline"
 description: "When and how to terminate ventures, features, products, and systems — the most important discipline in the ecosystem. Most failures come from over-building, not under-building."
+tags: [execution, operational, governance, atomic-constraint, risk]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Kill Discipline

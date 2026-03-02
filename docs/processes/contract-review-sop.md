@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 23
 title: "SOP: Client Contract & Legal Review"
 description: "Complete Standard Operating Procedure for the client contract lifecycle — from template selection through negotiation, legal review, execution, obligation monitoring, and renewal or termination."
+tags: [sop, operational, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Client Contract & Legal Review

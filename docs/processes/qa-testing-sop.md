@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 14
 title: "SOP: Quality Assurance & Testing"
 description: "Complete Standard Operating Procedure for quality assurance — test pyramid, coverage thresholds, test environments, defect management, QA gate enforcement, and sign-off authority at each deployment stage."
+tags: [sop, operational, technical]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Quality Assurance &amp; Testing

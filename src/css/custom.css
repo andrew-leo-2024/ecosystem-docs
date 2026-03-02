@@ -173,3 +173,27 @@ h1 {
   padding-top: 1rem;
   border-top: 1px solid rgba(47, 60, 126, 0.15);
 }
+
+/* Error line highlighting in code blocks */
+.code-block-error-line {
+  background-color: rgba(255, 0, 0, 0.1);
+  border-left: 3px solid #ff0000;
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+/* Search bar styling */
+.navbar .DocSearch-Button {
+  border-radius: 8px;
+}
+
+/* Cross-reference card hover */
+.cross-reference-card:hover {
+  border-color: var(--ifm-color-primary) !important;
+  box-shadow: 0 2px 8px rgba(47, 60, 126, 0.15);
+}
+
+[data-theme='dark'] .cross-reference-card:hover {
+  box-shadow: 0 2px 8px rgba(123, 140, 222, 0.2);
+}

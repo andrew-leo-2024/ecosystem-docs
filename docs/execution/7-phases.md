@@ -1,8 +1,14 @@
 ---
+
 sidebar_position: 2
 slug: 7-phases
 title: "7-Phase Progression"
 description: "The complete 7-phase execution plan from $0 to $400K+/month — entry conditions, exit criteria, kill triggers, revenue targets, and success probability for each phase."
+tags: [execution, operational, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 7-Phase Progression

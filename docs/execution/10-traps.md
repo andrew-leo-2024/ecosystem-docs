@@ -1,8 +1,14 @@
 ---
+
 sidebar_position: 11
 slug: 10-traps
 title: "The 10 Traps"
 description: "10 things NOT to do until $50K in monthly revenue — the most common forms of productive procrastination that kill early-stage ecosystems."
+tags: [execution, operational, risk]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # The 10 Traps

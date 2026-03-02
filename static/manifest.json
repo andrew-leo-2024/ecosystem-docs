@@ -1,0 +1,16 @@
+{
+  "name": "AINEFF Ecosystem Documentation",
+  "short_name": "AINEFF Docs",
+  "theme_color": "#2F3C7E",
+  "background_color": "#0d1117",
+  "display": "standalone",
+  "scope": "/ecosystem-docs/",
+  "start_url": "/ecosystem-docs/",
+  "icons": [
+    {
+      "src": "img/docusaurus.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ]
+}

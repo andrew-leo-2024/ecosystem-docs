@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 12
 title: "Signal Harvesters & Interface Taxonomy"
 description: "Complete taxonomy of 18 interface types across all device classes — from web and mobile through XR and smart home, with monetization ladder design and deliberate blind spots."
+tags: [architecture, technical, agent]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Signal Harvesters & Interface Taxonomy

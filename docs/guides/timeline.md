@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 5
 title: "Master Timeline & Milestones"
 description: "Comprehensive timeline combining all timelines from the ecosystem into one master view — from Day 1 through Year 20, merging execution, deployment, network effects, and geographic rollout."
+tags: [guide, reference, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Master Timeline & Milestones

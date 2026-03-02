@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 12
 title: "Operator Capability Maturity Checklist"
 description: "Comprehensive checklist for each operator stage — SOPs mastered, skills demonstrated, decisions handled independently, tools proficient in, and self-assessment templates with peer validation requirements."
+tags: [guide, reference]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Operator Capability Maturity Checklist

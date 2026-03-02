@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 4
 title: "Chokepoint Intelligence Map"
 description: "Workflow visualization tool and Revenue Chokepoint Diagnostic service — identifies, costs, and eliminates bottlenecks across approval-execution-delivery-payment cycles."
+tags: [product, financial, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Chokepoint Intelligence Map

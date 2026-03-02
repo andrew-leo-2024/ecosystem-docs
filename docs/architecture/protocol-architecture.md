@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 4
 title: "Protocol Architecture — PCP vs PEP"
 description: "Dual-protocol civilization model separating public inter-enterprise communication (PCP) from private internal cognition (PEP), with protocol generation, isolation, and boundary enforcement."
+tags: [architecture, technical, orf]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Protocol Architecture — PCP vs PEP

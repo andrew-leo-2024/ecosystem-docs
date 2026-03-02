@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 10
 title: "Ecosystem Brands"
 description: "The market-facing brand vehicles of the AINEFF Ecosystem — LPI (Limitless Private Intelligence), UniVenture, Sonarchy, Mobivault, and Aureya — each operating as governed entities within the constitutional framework to serve specific market verticals."
+tags: [entity, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Ecosystem Brands

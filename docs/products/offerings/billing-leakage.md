@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 2
 title: "Billing Leakage Scanner"
 description: "Invoice analysis and undercharge detection tool — identifies $2.1M average annual loss through systematic billing error identification."
+tags: [product, financial, aine, frankmax]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Billing Leakage Scanner

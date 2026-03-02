@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 1
 title: "The Grand Vision"
 description: "The AINEFF Ecosystem is a constitutional economic coordination protocol designed to become civilization-scale infrastructure — TCP/IP for enterprise coordination."
+tags: [vision, strategic, index]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # The Grand Vision

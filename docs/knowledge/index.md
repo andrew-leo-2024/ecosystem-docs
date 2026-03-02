@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 1
 title: "Knowledge Substrate"
 description: "The cognitive foundations, thinking tools, knowledge containers, belief systems, and learning taxonomies that form the raw material from which all AINEFF systems, governance, and execution derive."
+tags: [knowledge, index]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Knowledge Substrate

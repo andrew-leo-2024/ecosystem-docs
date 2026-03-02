@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 3
 title: "80+ Agent Design Patterns"
 description: "Comprehensive catalog of agent design patterns used across the AINEFF Ecosystem — from foundational perception-action loops to advanced governance, temporal, and institutional memory patterns."
+tags: [architecture, technical, agent]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 80+ Agent Design Patterns

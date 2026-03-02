@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 5
 title: "The Centi-Trillion Thesis"
 description: "Not building companies but architecting civilizations-in-miniature — how protocols become the richest systems in history and the path to GDP-scale infrastructure."
+tags: [vision, strategic, financial]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # The Centi-Trillion Thesis

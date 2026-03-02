@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 4
 title: "Why This Exists"
 description: "The structural mismatch between the story people were handed and actual reality — and why the AINEFF Ecosystem exists to address it."
+tags: [vision, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Why This Exists

@@ -1,8 +1,14 @@
 ---
+
 sidebar_position: 3
 slug: 7-layer-control
 title: 7-Layer Control Model
 description: The complete 7-layer technology control stack of the AINEFF Ecosystem — from compute substrate to civilization governance, with 40+ inventions mapped across all layers.
+tags: [blueprint, strategic, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 7-Layer Control Model

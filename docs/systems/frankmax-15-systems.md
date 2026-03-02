@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 9
 title: "15 Systems of Frankmax"
 description: "The 15 coordination systems that form the neutral substrate of the AINEFF Ecosystem — Frankmax as gravity field, not government. Record, Execution, Coordination, Governance, Enforcement, Evidence, Incentives, Trust, Meaning, Boundary, Irreversibility, Decay, Silence, Legibility to Power, and Human Discipline."
+tags: [system, technical, frankmax]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 15 Systems of Frankmax

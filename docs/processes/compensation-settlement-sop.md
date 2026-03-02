@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 20
 title: "SOP: Compensation Calculation & Settlement"
 description: "Complete Standard Operating Procedure for operator compensation calculation, verification, and payment — including base allocation, performance bonuses, revenue share, advance systems, tax documentation, and dispute resolution."
+tags: [sop, operational, financial]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # SOP: Compensation Calculation & Settlement

@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 13
 title: "Compounding Leverage Model"
 description: "Seven asset classes with monthly growth rates, revenue-to-asset mapping, monthly compounding projections from Month 1 to Month 36, and the infrastructure activation timeline."
+tags: [execution, operational, strategic]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Compounding Leverage Model

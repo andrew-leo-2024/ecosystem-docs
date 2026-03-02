@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 7
 title: "Audit & Evidence Architecture"
 description: "Architecture of ACTS (Audit & Causal Trace System) — causal traces, cryptographic commitments, deterministic replay, zero-knowledge proofs, and court-grade evidence standards."
+tags: [architecture, technical, governance]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Audit & Evidence Architecture

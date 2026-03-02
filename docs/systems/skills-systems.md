@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 8
 title: "8 Skills Systems"
 description: "Complete specification of Systems 67-74 — the Skills Layer that defines, registers, composes, packages, executes, decays, owns, and audits every skill in the AINEFF Ecosystem."
+tags: [system, technical, agent]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # 8 Skills Systems

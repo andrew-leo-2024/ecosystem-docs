@@ -1,7 +1,13 @@
 ---
+
 sidebar_position: 7
 title: "Frankmax — Pre-Incident Governance System"
 description: "Frankmax is the pre-incident governance system of the AINEFF Ecosystem — a coordination substrate that forces explicit authority, converts judgment into artifacts, and pre-allocates blame honestly. It is not a company. It is a gravity field."
+tags: [entity, frankmax]
+custom_status: active
+custom_owner: Andrew Leo
+custom_last_review: 2026-03-01
+custom_next_review: 2026-06-01
 ---
 
 # Frankmax — Pre-Incident Governance System
