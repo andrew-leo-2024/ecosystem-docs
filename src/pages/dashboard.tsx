@@ -2,16 +2,16 @@ import React from 'react';
 import Layout from '@theme/Layout';
 
 const SECTIONS = [
-  { name: 'Vision (40,000ft)', path: 'vision', count: 6 },
-  { name: 'Blueprint (20,000ft)', path: 'blueprint', count: 7 },
+  { name: 'Vision (40,000ft)', path: 'vision', count: 10 },
+  { name: 'Blueprint (20,000ft)', path: 'blueprint', count: 8 },
   { name: 'Entities (10,000ft)', path: 'entities', count: 11 },
-  { name: 'Systems (5,000ft)', path: 'systems', count: 10 },
-  { name: 'Products (1,000ft)', path: 'products', count: 19 },
-  { name: 'Execution (Ground)', path: 'execution', count: 14 },
-  { name: 'Architecture (Micro)', path: 'architecture', count: 13 },
-  { name: 'Knowledge (Substrate)', path: 'knowledge', count: 7 },
-  { name: 'SOPs & Processes', path: 'processes', count: 21 },
-  { name: 'Guides & Maps', path: 'guides', count: 11 },
+  { name: 'Systems (5,000ft)', path: 'systems', count: 11 },
+  { name: 'Products (1,000ft)', path: 'products', count: 20 },
+  { name: 'Execution (Ground)', path: 'execution', count: 17 },
+  { name: 'Architecture (Micro)', path: 'architecture', count: 19 },
+  { name: 'Knowledge (Substrate)', path: 'knowledge', count: 10 },
+  { name: 'SOPs & Processes', path: 'processes', count: 24 },
+  { name: 'Guides & Maps', path: 'guides', count: 12 },
 ];
 
 const TOTAL = SECTIONS.reduce((sum, s) => sum + s.count, 0);

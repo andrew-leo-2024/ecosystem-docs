@@ -104,7 +104,7 @@ const config: Config = {
     ],
     announcementBar: {
       id: 'v1_launch',
-      content: '<strong>AINEFF Ecosystem v1.0</strong> — 124 pages of constitutional infrastructure documentation.',
+      content: '<strong>AINEFF Ecosystem v1.1</strong> — 143 pages of constitutional infrastructure documentation.',
       backgroundColor: '#990011',
       textColor: '#FCF6F5',
       isCloseable: true,
