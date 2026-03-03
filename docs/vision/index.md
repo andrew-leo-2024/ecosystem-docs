@@ -206,3 +206,12 @@ Success is not "the AINEFF Ecosystem is famous." Success is not "AINEFF has the 
 - Two competing corporations in a bitter lawsuit both route their governance obligations through the same AINEFF protocol layer, and neither finds this remarkable
 
 **When nobody talks about the AINEFF Ecosystem because it is simply how things work, we will have succeeded.**
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/guides/reading-guide" title="Reading Guide — Where to Start" description="Guided reading paths for 8 different audiences — investors, regulators, enterprise buyers, operators, and more" badge="Guide" />
+
+<CrossReference to="/docs/blueprint" title="Ecosystem Blueprint" description="High-level overview of the complete AINEFF Ecosystem architecture — 8 interlocking entities and 74 systems consolidated into a unified blueprint" badge="Architecture" />

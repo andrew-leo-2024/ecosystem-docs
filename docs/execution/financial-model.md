@@ -14,6 +14,10 @@ custom_next_review: 2026-06-01
 
 This financial model projects the ecosystem's revenue, costs, margins, and cash position across three years. It is built on conservative assumptions grounded in the 7-Phase Progression and validated by the conversation-driven sales methodology.
 
+:::warning[Revenue Is Earned, Not Projected]
+Every number in this model must be validated by actual customer payments. The model adapts to reality; reality does not adapt to the model. Update monthly with real data.
+:::
+
 **Key premise:** Revenue is earned, not projected. Every number below must be validated by actual customer payments.
 
 ---
@@ -265,6 +269,10 @@ graph LR
 
 ---
 
+:::info[Key Assumptions Driving the Model]
+The financial projections below are hypotheses, not forecasts. Each assumption has a sensitivity rating indicating how much the model changes if the assumption is wrong. High-sensitivity assumptions must be validated with real customer data as early as possible.
+:::
+
 ## Key Financial Assumptions
 
 | Assumption | Value | Sensitivity |
@@ -279,6 +287,10 @@ graph LR
 | Monthly cost growth rate | 15% | Medium -- scales with revenue, not ahead of it |
 
 ---
+
+:::info[Financial Health Indicators Define Kill Criteria Thresholds]
+The following indicators map directly to kill criteria. When indicators enter the "Critical" zone, they trigger the kill decision framework defined in the Kill Discipline document.
+:::
 
 ## Financial Health Indicators
 

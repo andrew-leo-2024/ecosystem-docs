@@ -202,6 +202,10 @@ ORF is simply a better pipe between two parties. Faster, cheaper, more auditable
 
 As more parties join, netting begins to create compounding value. Each new participant increases the netting efficiency for everyone in the network. The value proposition shifts: "Not only is it better, but it gets better the more people use it."
 
+:::warning[Network Effects Only Activate at Critical Mass]
+ORF requires approximately 50+ active participants before network effects make it objectively cheaper than any alternative. Before that threshold, ORF competes on features alone. Premature scaling before critical mass wastes capital.
+:::
+
 ### Phase 3: Network Effect Activation (Month 30+)
 
 The inflection point. At approximately 50+ active participants, ORF's netting efficiency makes it objectively cheaper than any alternative — including building your own bilateral settlement system. The value proposition becomes: "It is now more expensive NOT to use this."
@@ -213,6 +217,10 @@ This is when ORF transitions from a product to infrastructure. Network effects m
 ORF becomes the default. Using an alternative settlement method is like sending a fax when everyone else uses email — technically possible, but economically irrational. At this point, ORF captures value passively: every obligation that flows through the global economy benefits from flowing through ORF.
 
 ---
+
+:::info[Treaty-Grade Financial Coordination]
+At its most mature, ORF enables sovereign entities, multinational corporations, and regulatory bodies to coordinate obligation settlement with the same reliability and finality as international treaties -- without any country needing to cede sovereignty.
+:::
 
 ## Treaty-Grade Financial Coordination
 
@@ -243,6 +251,10 @@ ORF does not generate the value. It **removes the friction** that prevents other
 
 ---
 
+:::note[The Centi-Trillion Thesis -- Design Target, Not Prediction]
+Global obligations are measured in hundreds of trillions. If ORF captures even a fraction of a basis point on the obligation flow it facilitates, the revenue at infrastructure scale is measured in billions. This is a design target that reverse-engineers every architectural decision.
+:::
+
 ## The Centi-Trillion Thesis
 
 Global GDP is $100+ trillion annually. The obligations underlying that GDP — supply chain commitments, financial contracts, service agreements, regulatory compliance, insurance claims, employment obligations — are multiples of GDP.
@@ -250,3 +262,12 @@ Global GDP is $100+ trillion annually. The obligations underlying that GDP — s
 If ORF captures even a fraction of a basis point on the obligation flow it facilitates, the revenue at infrastructure scale is measured in billions. If ORF becomes the default settlement layer for a significant share of global obligations, the value it creates (through netting efficiency, settlement speed, and audit reliability) is measured in trillions.
 
 This is not a prediction. It is a **design target**. Every architectural decision in the ecosystem is reverse-engineered from this end-state: ORF as the TCP/IP of obligation settlement, invisible, indispensable, and inescapable.
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/architecture/protocol-architecture" title="Protocol Architecture — PCP vs PEP" description="The dual-protocol civilization model that enforces hard separation between public inter-enterprise and private internal protocols" badge="Architecture" />
+
+<CrossReference to="/docs/processes/piar-sop" title="SOP: Pre-Incident Accountability Review (PIAR)" description="The governance mechanism that establishes accountability before irreversible obligation settlement decisions are made" badge="SOP" />

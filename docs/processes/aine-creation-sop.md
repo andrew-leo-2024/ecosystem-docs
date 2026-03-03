@@ -18,6 +18,10 @@ This SOP governs the end-to-end process of creating a new AINE (Single Productiv
 
 ## Trigger
 
+:::danger[All Preconditions Must Be Met Before Manufacturing Begins]
+Manufacturing an AINE without all preconditions met is a constitutional violation. An AINE created outside this process operates without valid governance, valid capital allocation, or valid oversight — making it an unaccountable entity by definition.
+:::
+
 This procedure is initiated when **all** of the following conditions are met:
 
 - A venture proposal has been submitted and approved through the Capital Allocation process.
@@ -91,6 +95,10 @@ The Validation Committee reviews the genome against:
 
 **Owner:** Agent Foundry Engineer
 **Duration:** 4–12 hours
+
+:::danger[No Custom Agent Architectures Without Constitutional Amendment]
+Only AINEFF-approved agent templates may be used. Deploying a custom agent architecture without a Constitutional amendment is a mandate boundary violation that triggers immediate investigation and potential AINE termination.
+:::
 
 AI agents are instantiated from **AINEFF-approved templates only**. No custom agent architectures are permitted without Constitutional amendment.
 
@@ -279,6 +287,10 @@ At any point during manufacturing, the process can be aborted:
 | Step 7 (Jurisdiction) | Initiate legal entity dissolution |
 | Steps 8-11 (Budget through Go-Live) | Full teardown, GAAGR entry marked `Aborted` |
 
+:::warning[Post-Abort Artifacts Must Be Preserved]
+All artifacts produced during a manufacturing abort are sealed and archived — never deleted. This preservation ensures the governance trail remains intact for audit and prevents the same flawed genome from being resubmitted without transparency.
+:::
+
 **Post-abort:** All artifacts are sealed and archived for audit purposes. Nothing is deleted — only marked as `Aborted` with timestamp and reason.
 
 ---
@@ -312,3 +324,12 @@ These SLAs measure the time from genome approval (Step 2 complete) to go-live (S
 | 9 | Documentation Package, Documentation Integrity Hash |
 | 10 | GAAGR Registry Entry, Registry Confirmation |
 | 11 | Go-Live Checklist, Monitoring Config, Stakeholder Notifications |
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/entities/aine" title="AINE — Single Productive Enterprise" description="The entity type this SOP manufactures — the legal, economic, and operational unit that generates revenue and serves clients" badge="Entity" />
+
+<CrossReference to="/docs/systems/ems-specification" title="Enterprise Manufacturing System (EMS)" description="The authoritative factory subsystem specification that powers the manufacturing pipeline described in this SOP" badge="System" />

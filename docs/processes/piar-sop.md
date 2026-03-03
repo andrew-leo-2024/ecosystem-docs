@@ -18,6 +18,10 @@ The PIAR is the AINEFF Ecosystem's core governance mechanism for **accountabilit
 
 ## Trigger
 
+:::danger[Skipping a Mandatory PIAR Is a Governance Violation]
+Executing an irreversible action, deploying capital, or making an external commitment without a completed PIAR is a direct violation of the Atomic Constraint. Retroactive PIARs are explicitly prohibited -- accountability must be established before the action occurs.
+:::
+
 A PIAR is **mandatory** when any of the following conditions are met:
 
 | Trigger Condition | Example |
@@ -189,6 +193,10 @@ Define the **specific state** the system returns to if the decision is reversed:
 - Who executes the rollback?
 - What is the rollback timeline?
 
+:::danger[Truly Irreversible Decisions Require Escalation]
+If no fallback state is achievable, the PIAR must be escalated to the next authority level. Acknowledging irreversibility without escalation is insufficient -- the higher authority must explicitly accept the risk.
+:::
+
 If no fallback state is achievable, this must be explicitly acknowledged and the PIAR requires escalation to the next authority level.
 
 **Artifacts:** Fallback Plan
@@ -297,6 +305,10 @@ Every completed PIAR produces the following package:
 
 ## Anti-Patterns
 
+:::warning[PIAR Anti-Patterns Trigger Governance Review]
+The following patterns indicate a PIAR process that has failed its purpose. Any of these anti-patterns, if detected, triggers an immediate governance review.
+:::
+
 The following are PIAR anti-patterns that trigger governance review:
 
 | Anti-Pattern | Why It Is Dangerous |
@@ -306,3 +318,12 @@ The following are PIAR anti-patterns that trigger governance review:
 | **Retroactive PIAR** — PIAR conducted after the decision was already made | Governance violation; accountability cannot be established after the fact |
 | **Kill criteria hedging** — vague or unmeasurable kill criteria | Makes it impossible to enforce pre-committed boundaries |
 | **Dissent suppression** — Challenger's concerns dismissed without documentation | Governance violation; triggers immediate review |
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/entities/orf-protocol" title="ORF — Obligation & Responsibility Finality Protocol" description="The obligation-netting protocol that PIARs help govern — ensuring accountability before irreversible obligation settlement" badge="Entity" />
+
+<CrossReference to="/docs/products/offerings/piar" title="Pre-Incident Accountability Review (PIAR)" description="The productized PIAR offering that operationalizes this SOP as a client-facing governance service" badge="Product" />

@@ -48,6 +48,14 @@ flowchart TD
 | **P2** | Significant | Localized failure with contained impact | Single AINE failure, isolated compliance violation, client data incident, single system outage |
 | **P3** | Minor | Performance degradation or drift from expected behavior | Metric drift detection, minor service degradation, non-critical bug, process deviation |
 
+:::danger[P0 Existential Threat -- Ecosystem Survival at Stake]
+A P0 incident threatens the fundamental viability of the entire ecosystem. Response time is measured in minutes, not hours. Capital is frozen, shelter protocols activate, and a communication blackout is imposed immediately.
+:::
+
+:::warning[P1 Critical -- Contagion Risk Must Be Contained]
+P1 incidents carry contagion risk. The Failure Contagion Firewall activates automatically to isolate affected systems. If containment fails, the incident escalates to P0.
+:::
+
 ---
 
 ## P0 Response: Existential Threat
@@ -103,6 +111,10 @@ flowchart TD
 | **Regulatory communication** | As required | Legal Lead |
 
 ### Communication Rules (P0)
+
+:::warning[P0 Communication Blackout Is Absolute]
+During a P0 event, no operator may communicate externally about the incident without explicit AINEFF Board approval. Violations -- including social media posts -- are treated as governance violations.
+:::
 
 - **No external communication** without AINEFF Board approval
 - **Single spokesperson** designated for all external communication
@@ -275,6 +287,10 @@ flowchart TD
 
 ## Post-Incident Review Procedure
 
+:::info[Post-Incident Reviews Are Mandatory Within 72 Hours]
+This is not optional, not deferrable, and not a suggestion. The 72-hour window begins at the moment the incident is declared.
+:::
+
 Every P0, P1, and P2 incident requires a formal post-incident review within **72 hours**.
 
 ### Review Structure
@@ -302,6 +318,10 @@ Every P0, P1, and P2 incident requires a formal post-incident review within **72
 ---
 
 ## Forensic Replay Procedure
+
+:::note[Forensic Replay Produces Court-Grade Evidence]
+The forensic replay procedure produces deterministic, cryptographically verified evidence for legal proceedings, regulatory inquiries, and insurance claims.
+:::
 
 For P0 and P1 incidents, a **forensic replay** is conducted to produce a deterministic, auditable reconstruction of events.
 
@@ -349,3 +369,12 @@ The following metrics are tracked for all incidents:
 | **Post-Incident Review completion** | 100% within 72 hours (P0-P2) |
 | **Action item closure rate** | &gt; 90% within 30 days |
 | **Recurrence rate** | &lt; 5% (same root cause within 12 months) |
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/architecture/governance-enforcement" title="Governance Enforcement Architecture" description="The enforcement systems (PAME, ICG, CCRS) and response ladders that detect and respond to incidents at the architectural level" badge="Architecture" />
+
+<CrossReference to="/docs/guides/escalation-matrix" title="Escalation & Authority Matrix" description="Visual reference for decision authority limits and escalation paths used during incident response triage" badge="Guide" />

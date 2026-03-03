@@ -286,3 +286,12 @@ When in doubt, think of AINEF OS as a factory:
 - The **waste** is documented failures that feed the learning layer
 
 The factory does not care what the product is. It cares that the product is produced **within constraints, to specification, with full traceability**. That is what makes it infrastructure, not a business.
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/systems/ainef-factory-systems" title="21 AINEF Factory Systems" description="The 21 factory-level systems that manufacture, validate, assemble, and govern the lifecycle of every AINE enterprise" badge="System" />
+
+<CrossReference to="/docs/architecture/application-architecture" title="E2E Application Architecture" description="Complete catalog of applications across every layer of the ecosystem, including the production infrastructure apps owned by AINEF OS" badge="Architecture" />

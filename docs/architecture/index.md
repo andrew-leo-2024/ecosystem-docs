@@ -197,6 +197,63 @@ Every constraint is:
 
 ---
 
+## Browse Architecture
+
+<Tabs>
+<TabItem value="domain" label="By Domain" default>
+
+**Agent & AI**
+- [Agent Taxonomy](./agent-taxonomy) — Classification of all agent types
+- [Agent Design Patterns](./agent-design-patterns) — 80+ patterns (perception → thinking → action → memory)
+- [AI Taxonomy](./ai-taxonomy) — Foundation model classification
+- [Enhancement Layer](./enhancement-layer) — 5-layer model wrapping LLMs with governance
+
+**Protocol & Infrastructure**
+- [Protocol Architecture](./protocol-architecture) — PCP vs PEP dual-protocol model
+- [Deployment Infrastructure](./deployment-infrastructure) — Cloud, CI/CD, observability
+- [Application Architecture](./application-architecture) — Full application catalog across all layers
+
+**Governance & Compliance**
+- [Governance Enforcement](./governance-enforcement) — PAME, ICG, CCRS enforcement systems
+- [Governance Roles](./governance-roles) — 9-layer hierarchical role ontology
+- [Regulatory Gaps](./regulatory-gaps) — 35 systems from hostile regulator simulation
+- [Audit & Evidence](./audit-evidence) — Court-grade evidence architecture
+
+**Systems & Memory**
+- [EMS Architecture](./ems-architecture) — Enterprise Manufacturing System
+- [Component Architecture](./component-architecture) — 74-system canonical component map
+- [Memory Systems](./memory-systems) — Orchestrated Memory Graph (OMG)
+- [Skills Architecture](./skills-architecture) — Skill lifecycle and Micro-SaaS
+- [Signal Harvesters](./signal-harvesters) — External signal ingestion
+
+**Enterprise Models**
+- [Management Models](./management-models) — 150+ org formalizations mapped to agents
+- [Protocol Authority](./protocol-authority) — Coordination protocol architecture
+
+</TabItem>
+<TabItem value="depth" label="By Depth">
+
+**Start Here (Overview)**
+- [Protocol Architecture](./protocol-architecture) — The fundamental dual-protocol split
+- [Agent Taxonomy](./agent-taxonomy) — How all agents are classified
+- [EMS Architecture](./ems-architecture) — How enterprises are manufactured
+
+**Go Deeper (Specifications)**
+- [Component Architecture](./component-architecture) — Complete 74-system component map
+- [Application Architecture](./application-architecture) — Every app across every layer
+- [Agent Design Patterns](./agent-design-patterns) — 80+ implementation patterns
+
+**Expert (Governance & Enforcement)**
+- [Governance Enforcement](./governance-enforcement) — Enforcement mechanism internals
+- [Regulatory Gaps](./regulatory-gaps) — Stress-tested architectural vulnerabilities
+- [Audit & Evidence](./audit-evidence) — Court-grade audit architecture
+
+</TabItem>
+
+</Tabs>
+
+---
+
 ## Where to Go Next
 
 | Topic | Page |

@@ -31,9 +31,17 @@ AINEFF defines what is permissible, what is mandatory, what is forbidden, and wh
 
 > **The simplest test:** If AINEFF is doing something that could generate a profit-and-loss statement, AINEFF has violated its own constitution.
 
+:::danger[If AINEFF Executes, the Ecosystem Has Failed]
+AINEFF is a non-operating constitutional layer. It never touches money, never executes, never builds, never sells. If AINEFF begins operating, it has violated its own constitution and the ecosystem structural integrity is compromised.
+:::
+
 ---
 
 ## What AINEFF Defines
+
+:::info[AINEFF Defines Five Categories of Constitutional Constraint]
+AINEFF is the source of truth for mandate boundaries, authority ceilings, failure thresholds, escalation rules, and death clauses. Every entity in the ecosystem derives its authority from these definitions.
+:::
 
 AINEFF is the source of truth for five categories of constraint:
 
@@ -153,6 +161,10 @@ The **constitutional guarantee that no architectural decision permanently forecl
 
 ### 9. Anti-ASI Clause
 
+:::danger[Anti-ASI Clause -- No Ungovernable Intelligence]
+This clause prohibits any entity, system, agent, or combination from accumulating sufficient autonomous decision-making authority, information access, or resource control to constitute an effectively ungovernable intelligence -- regardless of whether it is artificial, human, or hybrid.
+:::
+
 The **constitutional prohibition against the ecosystem becoming or enabling an autonomous superintelligence** that operates outside human governance.
 
 ---
@@ -259,6 +271,19 @@ At any point, anyone in the ecosystem can apply the AINEFF Test:
 
 > **"Is the entity doing something that AINEFF has not explicitly authorized in a canonical artifact?"**
 
+:::danger[Unauthorized Action Is Unconstitutional Action]
+If an entity is doing something that AINEFF has not explicitly authorized in a canonical artifact, it is operating outside constitutional bounds -- regardless of whether the action is profitable, popular, or seemingly harmless.
+:::
+
 If the answer is yes, the entity is operating outside constitutional bounds — regardless of whether the action is profitable, popular, or seemingly harmless. Unauthorized action is unconstitutional action.
 
 This is the foundation upon which everything else is built.
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/systems/aineff-framework-systems" title="12 AINEFF Framework Systems" description="The constitutional-level framework systems that implement AINEFF's ontological, taxonomic, and axiomatic foundations" badge="System" />
+
+<CrossReference to="/docs/architecture/governance-enforcement" title="Governance Enforcement Architecture" description="The enforcement systems (PAME, ICG, CCRS) and response ladders that operationalize AINEFF's governance constraints" badge="Architecture" />

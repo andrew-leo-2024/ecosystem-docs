@@ -12,6 +12,10 @@ custom_next_review: 2026-06-01
 
 # SOP: Audit & Compliance Procedures
 
+:::info[Audit Is Continuous, Not Periodic]
+The AINEFF Ecosystem treats audit as a continuous, automated function -- not a quarterly event. Every action produces auditable artifacts, every decision has a governance trail, and every financial flow is traceable in real time.
+:::
+
 Audit is not a periodic event in the AINEFF Ecosystem — it is a **continuous, automated, layered function**. The ecosystem's constitutional design means that every action produces auditable artifacts, every decision has a governance trail, and every financial flow is traceable. This SOP defines how that audit infrastructure is operated, how external audits are handled without compromising internal privacy, and how evidence is packaged for courts, regulators, and insurers.
 
 ---
@@ -184,6 +188,10 @@ When ecosystem data is required for legal proceedings, the evidence delivery pro
 | **Chain of custody** | Documented handling of all evidence from creation to delivery |
 | **Expert attestation** | Technical expert explanation of evidence methodology |
 
+:::warning[Court Evidence Must Meet Admissibility Standards]
+Evidence delivered for legal proceedings must be authentic, tamper-evident, and maintain an unbroken chain of custody. Failure to meet these standards can result in evidence being ruled inadmissible.
+:::
+
 ### Court Verification Procedure
 
 1. **Legal request received** — Subpoena, discovery request, or voluntary disclosure decision
@@ -295,6 +303,10 @@ flowchart TD
 |-------------|-----------------|---------------|
 | Financial transactions | 7 years minimum | Tax and regulatory requirement |
 | Governance decisions (PIARs) | Permanent | Constitutional requirement |
+
+:::note[Governance Records Are Permanent]
+PIARs, incident records, and audit reports are retained permanently as constitutional requirements. These form the accountability chain of the ecosystem and cannot be deleted.
+:::
 | Incident records | Permanent | Forensic and learning value |
 | Client engagement records | 7 years after engagement end | Contractual and regulatory |
 | Operator performance records | Duration of employment + 3 years | Employment law compliance |
@@ -335,3 +347,7 @@ flowchart TD
 | **Minor** | Cell Lead | 30 days | Verified at next monthly audit |
 | **Major** | AINE Lead + AINEG | 14 days | Dedicated follow-up audit |
 | **Critical** | AINEFF Board + Frankmax | Immediate | Continuous monitoring until resolved |
+
+:::danger[Critical Audit Findings Require Immediate Escalation]
+Critical findings involving constitutional or legal violations trigger emergency escalation to the AINEFF Board and Frankmax with immediate action required. There is no cooling period for critical findings.
+:::

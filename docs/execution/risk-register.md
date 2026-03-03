@@ -82,6 +82,10 @@ quadrantChart
 
 ## Detailed Risk Profiles
 
+:::warning[Top 5 Risks Require Weekly Monitoring]
+The five highest-severity risks (Founder Burnout, Architecture Seduction, Over-engineering, Strategic Delusion, Kill Discipline Failure) must have their trigger indicators reviewed every week. These risks have high probability and critical impact.
+:::
+
 ### Risk 1: Founder Burnout
 
 | Dimension | Detail |
@@ -123,6 +127,10 @@ quadrantChart
 | **Contingency** | If over-engineered: strip product to core 3 features. Delete everything else. Rebuild only what users demand. |
 
 ---
+
+:::danger[Zero Revenue at Day 90 Is an Existential Threat]
+If no customer has paid for anything after 90 days of execution, this is not a data point -- it is an existential signal. The kill triggers at Day 21, Day 45, and Day 60 exist to prevent reaching Day 90 without course correction.
+:::
 
 ### Risk 4: Zero Revenue Day 90
 
@@ -292,6 +300,10 @@ quadrantChart
 
 ---
 
+:::warning[Strategic Delusion -- The Invisible Risk]
+Strategic delusion is the most dangerous behavioral risk because it is self-concealing. The founder confuses the strategy with reality, and the strategy becomes a filter that blocks contradictory data. Weekly customer conversations are the antidote.
+:::
+
 ### Risk 16: Strategic Delusion
 
 | Dimension | Detail |
@@ -370,5 +382,9 @@ quadrantChart
 | **Monthly** | Full register review, update probabilities | Founder + Advisor |
 | **Quarterly** | Risk re-ranking, add/remove risks | Founder + Advisor |
 | **Phase Gate** | Complete risk assessment before phase transition | Founder |
+
+:::tip[A Planned Risk Is a Problem; An Unplanned Risk Is a Crisis]
+This register exists to ensure every risk is merely a problem with a known mitigation strategy, not a crisis that arrives as a surprise.
+:::
 
 > **A risk you have planned for is a problem. A risk you have not planned for is a crisis.** This register ensures every risk is merely a problem.

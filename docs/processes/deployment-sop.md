@@ -12,7 +12,13 @@ custom_next_review: 2026-06-01
 
 # SOP: System Deployment & Release
 
-Every system in the AINEFF Ecosystem follows a controlled deployment pipeline. There are no cowboy deployments, no "just push it to prod," and no skipping steps because someone is in a hurry. The deployment process is designed to catch failures **before** they reach production, and to contain failures **when** they reach production.
+Every system in the AINEFF Ecosystem follows a controlled deployment pipeline.
+
+:::warning[No Cowboy Deployments -- Ever]
+Every deployment follows the controlled pipeline. Skipping steps because of time pressure is how production outages happen. The process exists because past failures proved it necessary.
+:::
+
+There are no cowboy deployments, no "just push it to prod," and no skipping steps because someone is in a hurry. The deployment process is designed to catch failures **before** they reach production, and to contain failures **when** they reach production.
 
 This SOP defines the deployment pipeline, architecture zones, rollback procedures, and emergency protocols.
 
@@ -128,6 +134,10 @@ A small percentage of production traffic is routed to the new version:
 | Resource utilization | 30 min minimum | CPU/memory within normal bounds |
 | Business metrics | 1 hour minimum | Conversion rates, transaction volumes stable |
 
+:::tip[Canary Deployments Catch Failures Before They Reach 100% of Traffic]
+The canary stage routes only 5% of traffic to the new version. If metrics degrade, automatic rollback limits the blast radius. Never skip canary for production deployments.
+:::
+
 **Canary gate:** All metrics must be within bounds. Automatic rollback if any metric breaches threshold.
 
 ### Stage 5: Blue/Green Switch (50/50 traffic)
@@ -241,6 +251,10 @@ stateDiagram-v2
 
 ### Flag Rules
 
+:::tip[Feature Flags Prevent Big-Bang Rollouts]
+Feature flags allow code to be deployed without being activated, enabling gradual rollouts. But flags left beyond 30 days become technical debt -- every flag has a mandatory cleanup ticket.
+:::
+
 | Rule | Rationale |
 |------|-----------|
 | **Maximum flag lifespan: 30 days** | Prevents permanent flags that become tech debt |
@@ -284,6 +298,10 @@ Manual rollback is available for any deployment within 72 hours:
 6. **Document** the rollback in the incident tracker
 
 ### Database Rollback Considerations
+
+:::warning[Database Rollbacks May Be Irreversible]
+Destructive schema changes (column removals, type changes) and data migrations may not be reversible. A PIAR is required before deploying any destructive schema change.
+:::
 
 If the deployment included database schema changes:
 

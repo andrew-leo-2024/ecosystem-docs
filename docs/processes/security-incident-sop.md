@@ -14,6 +14,10 @@ custom_next_review: 2026-06-01
 
 A security incident is not just a technical failure — it is a trust failure. When data is exposed, credentials are compromised, or unauthorized access occurs, the damage extends beyond systems into customer relationships, regulatory standing, and ecosystem reputation. This SOP defines the security-specific response procedures that complement the general [Incident Response &amp; External Shocks SOP](./incident-response-sop) with security-focused protocols.
 
+:::danger[Atomic Constraint: Every Security Action Requires a Human Liability Bearer]
+No automated system may make unilateral security decisions that affect customer data, system access, or evidence integrity without a human authorizing and accepting accountability.
+:::
+
 The foundational constraint: **every security action must have a human liability bearer.** No automated system may make unilateral security decisions that affect customer data, system access, or evidence integrity without a human authorizing and accepting accountability for that action. This is the Atomic Constraint applied to security operations.
 
 ---
@@ -122,6 +126,10 @@ Before activating full incident response, confirm the event is a real security i
 | Verify affected systems and scope | 15 minutes | Security Operator |
 | Escalate to Security Incident Commander if confirmed | Immediate | Security Operator |
 
+:::warning[When in Doubt, Treat It as Real]
+False positive cost is hours of investigation. Missed real incident cost is unbounded. Always err on the side of activating the full response.
+:::
+
 **Rule:** When in doubt, treat it as a real incident. False positive cost is hours of investigation. Missed real incident cost is unbounded.
 
 ### Step 3: Immediate Containment
@@ -175,6 +183,10 @@ Containment actions are time-critical. The goal is to stop ongoing damage before
 | 17-20 | **Critical** | Founder leads, Legal + external counsel, Board notified |
 
 ### Step 5: Evidence Preservation
+
+:::warning[Preserve Evidence Before Any Remediation]
+Evidence must be captured before any system changes. Containment actions that destroy evidence create regulatory exposure and may render the incident uninvestigable. Always snapshot first.
+:::
 
 Evidence preservation begins **before** any investigative or remediation actions that might alter the state of affected systems.
 
@@ -241,6 +253,10 @@ Evidence preservation begins **before** any investigative or remediation actions
 
 #### Mandatory Notification Timelines
 
+:::danger[Regulatory Notification Deadlines Are Legally Binding]
+GDPR requires notification to the supervisory authority within 72 hours of discovery. Missing this deadline exposes the ecosystem to significant regulatory penalties. The clock starts at discovery, not at confirmation.
+:::
+
 | Regulation / Requirement | Notification Deadline | Recipient | Content |
 |-------------------------|----------------------|-----------|---------|
 | **GDPR (EU)** | 72 hours from discovery | Supervisory authority | Nature of breach, data categories, approximate number of subjects, consequences, mitigation measures |
@@ -289,6 +305,10 @@ Every security incident requires a post-mortem within 72 hours of recovery:
 | **Governance review** | Was the Atomic Constraint maintained? Every action traceable to a human? |
 
 ### Step 11: Hardening
+
+:::warning[Hardening Actions Are Mandatory Deliverables]
+Every security incident must result in specific defensive improvements. Hardening is not a suggestion -- it is a mandatory deliverable tracked to completion within 30 days of the post-mortem.
+:::
 
 Post-incident hardening is not optional. Every security incident must result in specific defensive improvements:
 

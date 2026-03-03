@@ -12,7 +12,11 @@ custom_next_review: 2026-06-01
 
 # Protocol Architecture — PCP vs PEP
 
-The AINEFF Ecosystem enforces a hard separation between two protocol domains. This separation is not a design preference -- it is a constitutional requirement. No internal cognition protocol may ever leak to the public domain, and no public protocol may dictate internal cognition.
+The AINEFF Ecosystem enforces a hard separation between two protocol domains. This separation is not a design preference -- it is a constitutional requirement.
+
+:::danger[PCP/PEP Separation Is a Constitutional Requirement]
+No internal cognition protocol may ever leak to the public domain, and no public protocol may dictate internal cognition. Violating this boundary is treated as a constitutional breach.
+::: No internal cognition protocol may ever leak to the public domain, and no public protocol may dictate internal cognition.
 
 ---
 
@@ -293,6 +297,10 @@ graph TD
     PEP_BUNDLE --> AINE[Deployed AINE Runtime]
 ```
 
+:::info[PEP-GEN Creates Unique, Sealed Protocols Per AINE]
+Every AINE receives a unique Private Enterprise Protocol generated at manufacture time. No two AINEs share a PEP, and PEPs cannot be copied, transferred, or inspected -- even by AINEF operators.
+:::
+
 ### PEP-GEN Guarantees
 
 | Guarantee | Description |
@@ -310,6 +318,10 @@ graph TD
 The boundary between PCP and PEP is enforced by the Gateway Agent and the IPS (Inter-Protocol System).
 
 ### Isolation Rules
+
+:::warning[Protocol Boundary Violations Are Automatically Detected]
+The Gateway Agent and IPS enforce hard isolation between PCP and PEP. Any attempt to leak PEP data into PCP responses or inject PCP commands into PEP operations is blocked and logged as a security event.
+:::
 
 1. **No PEP leakage** -- Internal message formats, agent identifiers, memory addresses, and cognition traces never appear in PCP responses.
 2. **No PCP injection** -- External requests cannot directly invoke PEP-level operations. All external input is sanitized, validated, and translated.
@@ -395,3 +407,10 @@ Both PCP and PEP are versioned independently.
 ### PEP Versioning
 
 PEP versions are internal and opaque. The AINE Control Plane manages PEP version upgrades during maintenance windows. External parties never see PEP version information.
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/entities/orf-protocol" title="ORF — Obligation & Responsibility Finality Protocol" description="The obligation-netting protocol that uses PCP for cross-boundary settlement while maintaining PEP isolation within each enterprise" badge="Entity" />

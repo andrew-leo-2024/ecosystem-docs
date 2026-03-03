@@ -254,3 +254,12 @@ stateDiagram-v2
 ```
 
 No AINE is immortal. Every AINE is born with the conditions of its death already defined. This is not pessimism — it is **architectural honesty**. An enterprise that cannot die cannot be governed.
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/systems/aine-enterprise-systems" title="16 AINE Enterprise Systems" description="The 16 enterprise-level systems that power the runtime operation of individual AINEs — from PEP execution through agent management and exit" badge="System" />
+
+<CrossReference to="/docs/processes/aine-creation-sop" title="SOP: AINE Creation & Manufacturing" description="The standard operating procedure for manufacturing a new AINE — from genome design through agent foundry and go-live" badge="SOP" />

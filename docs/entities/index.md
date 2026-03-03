@@ -159,6 +159,46 @@ The result is a system where **no single entity can become a bottleneck, a tyran
 
 ---
 
+## Browse by View
+
+<Tabs>
+<TabItem value="hierarchy" label="By Hierarchy" default>
+
+| Layer | Entity | Role |
+|-------|--------|------|
+| Constitutional | [AINEFF](./aineff) | Defines law, never operates |
+| Production | [AINEF OS](./ainef-os) | Builds ventures, never profits |
+| Federation | [AINEG](./aineg) | Coordinates portfolio, never captures |
+| Enterprise | [AINE](./aine) | Generates revenue, never self-governs |
+| Coordination | [WGE](./wge) | Orchestrates swarms, never owns |
+| Governance | [Frankmax](./frankmax) | Enforces accountability, never decides |
+| Talent | [LevelUpMax](./levelupmax) | Refines operators, never deploys |
+| Protocol | [ORF Protocol](./orf-protocol) | Settles obligations, never originates |
+
+</TabItem>
+<TabItem value="function" label="By Function">
+
+**Constitutional & Governance**
+- [AINEFF](./aineff) — Constitutional law layer (non-operating)
+- [ORF Protocol](./orf-protocol) — Obligation & responsibility settlement
+- [Frankmax](./frankmax) — Pre-incident governance and accountability
+
+**Coordination & Federation**
+- [AINEG](./aineg) — Group/portfolio coordination across enterprises
+- [WGE](./wge) — Swarm-level workforce orchestration
+
+**Execution & Production**
+- [AINEF OS](./ainef-os) — Venture production infrastructure (the factory)
+- [AINE](./aine) — Individual productive enterprise (revenue-generating)
+- [LevelUpMax](./levelupmax) — Talent refinery and certification authority
+- [Ecosystem Brands](./ecosystem-brands) — Market-facing brand vehicles
+
+</TabItem>
+
+</Tabs>
+
+---
+
 ## Reading Order
 
 For a first pass through the entities, read them in order:

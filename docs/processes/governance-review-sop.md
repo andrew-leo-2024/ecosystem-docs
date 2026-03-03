@@ -66,6 +66,10 @@ flowchart TD
 | **Reversibility** | Requires same approval process; cannot be emergency-reversed |
 | **Examples** | Spending limit changes, revenue share adjustments, new investment criteria |
 
+:::danger[Constitutional Tier Changes Require Multi-Body Approval]
+Tier 3 changes affect the foundational structure of the entire ecosystem. A bad constitutional change can permanently alter authority hierarchies, entity mandates, and rights across every AINE and operator. These changes require the highest level of scrutiny and cannot be rushed under any circumstances.
+:::
+
 ### Tier 3: Constitutional Rules
 
 **Scope:** Rules that define the fundamental structure — authority hierarchies, entity mandates, rights, constitutional principles.
@@ -126,6 +130,10 @@ Classification criteria:
 | Does it change who has authority over what? | Tier 3 |
 | Does it affect constitutional principles or entity mandates? | Tier 3 |
 | Could it be reversed in 24 hours with no lasting impact? | Tier 1 eligible |
+
+:::tip[When in Doubt, Classify Upward]
+If a rule change is ambiguous between two tiers, always classify it at the higher tier. The cost of over-classifying (slower process) is always less than the cost of under-classifying (insufficient review of a consequential change).
+:::
 | Does it affect only a single cell or team? | Tier 1 eligible |
 
 **Artifacts:** Classification Decision (with rationale)
@@ -162,6 +170,10 @@ Approval is documented with: voter identities, votes, rationale for dissenting v
 
 **Owner:** Governance Reviewer (monitors)
 **Duration:** None (Tier 1), 14 days (Tier 2), 30 days (Tier 3)
+
+:::warning[Cooling Periods Are Mandatory — No Exceptions]
+Cooling periods exist to prevent governance capture through speed. Bypassing or shortening a cooling period — even under time pressure — is a governance violation. For Tier 2, the 14-day period is absolute. For Tier 3, the 30-day period is absolute plus external review must be completed.
+:::
 
 During the cooling period:
 - The approved change is published to all affected parties
@@ -243,6 +255,10 @@ Every rule is scored on the following entropy metrics:
 | **Complexity** | 10% | How many conditions, exceptions, and qualifications? (0 = simple, 100 = labyrinthine) |
 | **Age without review** | 10% | How long since this rule was last reviewed? (0 = recently, 100 = years) |
 
+:::warning[High Entropy Rules Degrade Governance]
+Rules scoring above 60% entropy are flagged for mandatory review. High-entropy rules are not merely inconvenient — they actively corrode governance by creating confusion, selective enforcement, and operator distrust.
+:::
+
 **Entropy threshold:** Rules scoring above 60% entropy are flagged for mandatory review.
 
 ### Maximum Rule Count Enforcement
@@ -255,6 +271,10 @@ Each governance layer has a **maximum rule count** to prevent regulatory bloat:
 | Portfolio coordination (AINEG) | 50 | Tracked in registry | Simplification review triggered |
 | Operational (per AINE) | 75 | Tracked per AINE | Annual pruning prioritized |
 | Cell-level | 30 | Tracked per cell | Cell Lead must prune before adding |
+
+:::note[Rule Count Limits Are Hard Caps]
+The maximum rule count per layer is enforced as a hard cap, not a guideline. At the Constitutional level, adding a 26th rule requires retiring an existing one first. This constraint prevents regulatory bloat and forces prioritization.
+:::
 
 ---
 
@@ -297,3 +317,12 @@ All governance documents are version-controlled with:
 | **Affected documents** | List of all SOPs and processes updated as a result |
 
 Governance documents are stored in the ecosystem's **Golden Repo** and follow the same deployment pipeline as code (review, approval, staged rollout).
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/entities/aineff" title="AINEFF — Constitutional Law Layer" description="The foundational charter entity defining mandate boundaries, authority ceilings, and governance axioms that this SOP implements" badge="Entity" />
+
+<CrossReference to="/docs/vision/atomic-constraint" title="The Atomic Constraint" description="The irreducible principle from which all governance derives — the structural invariant that governs rule changes at every tier" badge="Governance" />

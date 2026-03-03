@@ -14,6 +14,10 @@ custom_next_review: 2026-06-01
 
 The AINEFF Ecosystem produces **court-grade evidence** for every action taken by every agent. This is not optional logging -- it is a constitutional requirement enforced at the protocol level. An agent that cannot produce evidence for an action is treated as if that action never happened, and the agent is immediately terminated.
 
+:::danger[No Evidence = No Action = Agent Termination]
+An agent that cannot produce evidence for an action is treated as if that action never happened. The agent is immediately terminated. This is a constitutional requirement enforced at the protocol level -- there are no exceptions.
+:::
+
 ---
 
 ## ACTS: Audit & Causal Trace System
@@ -222,6 +226,10 @@ sequenceDiagram
     end
 ```
 
+:::warning[Deterministic Replay Requires Preserved State]
+Replay only works if all inputs, agent versions, configurations, random seeds, and external data snapshots are preserved. Missing any component makes the replay unreliable or impossible.
+:::
+
 ### Replay Limitations
 
 | Scenario | Mitigation |
@@ -311,6 +319,10 @@ interface ZKProofArtifact {
 
 The "Audit Without Visibility" principle enables courts, regulators, and auditors to verify that an AINE's operations were compliant without ever seeing the AINE's internal data or reasoning.
 
+:::info[Audit Without Visibility -- Privacy-Preserving Compliance]
+The three-layer verification system allows courts, regulators, and auditors to verify compliance without ever seeing internal data or reasoning. This is achieved through public evidence, zero-knowledge proofs, and sealed evidence opened only by court order.
+:::
+
 ### Three-Layer Verification
 
 ```
@@ -399,6 +411,10 @@ interface SignedAttestation {
 ```
 
 ### Multi-Party Corroboration
+
+:::warning[High-Stakes Evidence Requires Multiple Independent Corroborators]
+No single agent attestation is sufficient for elevated, high, or critical evidence levels. Court-grade evidence requires four or more independent corroborators.
+:::
 
 For high-stakes evidence, multiple independent agents must corroborate the evidence. No single agent's attestation is sufficient.
 

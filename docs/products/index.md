@@ -106,6 +106,62 @@ The revenue architecture is designed to maximize Client Lifetime Value (CLV) thr
 | Net Revenue Retention | &gt;120% | Phase 2+ |
 | Logo Churn | &lt;10% annually | Phase 2+ |
 
+## Browse Products
+
+<Tabs>
+<TabItem value="wedge" label="By Market Wedge" default>
+
+**Enterprise Wedge (Primary)**
+- [Enterprise Wedge Strategy](./enterprise-wedge) — 90-day corporate proof engine
+- [Governance Gap Analyzer](./offerings/governance-gap) — Free → upsell entry point
+- [Chokepoint Intelligence](./offerings/chokepoint-intelligence) — Workflow bottleneck costing
+- [Corporate Wedge Generator](/docs/execution/corporate-wedge) — Complaint-indexed 90-day offers
+
+**Insurance Wedge**
+- [Insurance Vertical](./insurance-vertical) — AI-native real-time risk management
+- [Insurance Claims Automation](./offerings/insurance-claims) — Claims sprint offering
+
+**SMB / Micro-SaaS Wedge**
+- [DocuFlow Agent](./offerings/docuflow) — Compliance automation SaaS
+- [Billing Leakage Scanner](./offerings/billing-leakage) — Invoice undercharge detection
+
+</TabItem>
+<TabItem value="revenue" label="By Revenue Type">
+
+**Recurring Revenue**
+- [DocuFlow Agent](./offerings/docuflow) — $19-$49/mo SaaS
+- [Operator Training](./offerings/operator-track) — Track 1-5 certification paths
+
+**Project / Sprint Revenue**
+- [Chokepoint Intelligence](./offerings/chokepoint-intelligence) — $5K-$15K diagnostic
+- [Insurance Claims Sprint](./offerings/insurance-claims) — $7.5K-$12K engagement
+- [Billing Leakage Scanner](./offerings/billing-leakage) — $25K scan
+
+**License / Enterprise Revenue**
+- [IP Licensing](./offerings/ip-licensing) — 6-category IP framework
+- [PIAR](./offerings/piar) — $25K-$75K governance engagement
+- [Enterprise Wedge](./enterprise-wedge) — $80K-$110K pilot
+
+</TabItem>
+<TabItem value="all" label="All Products">
+
+| Product | Price Range | Type |
+|---------|-------------|------|
+| [DocuFlow](./offerings/docuflow) | $19-$49/mo | SaaS |
+| [Governance Gap](./offerings/governance-gap) | Free | Lead gen |
+| [Chokepoint Intelligence](./offerings/chokepoint-intelligence) | $5K-$15K | Diagnostic |
+| [Billing Leakage](./offerings/billing-leakage) | $25K | Sprint |
+| [Insurance Claims](./offerings/insurance-claims) | $7.5K-$12K | Sprint |
+| [Operator Training](./offerings/operator-track) | $500-$1,500 | Training |
+| [PIAR](./offerings/piar) | $25K-$75K | Governance |
+| [IP Licensing](./offerings/ip-licensing) | Variable | License |
+
+</TabItem>
+
+</Tabs>
+
+---
+
 ## Navigation
 
 - **[Revenue Streams](./revenue-streams.md)** — Complete catalog of 25+ revenue streams with pricing, margins, and confidence scores

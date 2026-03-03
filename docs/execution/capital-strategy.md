@@ -65,6 +65,10 @@ Certain layers of the ecosystem are structurally closed to investment. This is n
 
 ### AINEG Coordination Layers
 
+:::danger[AINEG Coordination Layers Are Closed to Investment]
+If investors held equity in coordination, they would have an incentive to optimize coordination for profit rather than safety. This prohibition is constitutional and permanent.
+:::
+
 The AINEG coordination layers — which manage inter-AINE coordination, routing protocols, safety monitoring, and dispute resolution — cannot accept outside investment.
 
 **Why:** If investors held equity in coordination, they would have an incentive to optimize coordination for profit rather than safety. Routing decisions would drift toward revenue maximization. Safety monitoring would face pressure to reduce friction. Dispute resolution would favor the entities generating returns for investors.
@@ -73,6 +77,10 @@ Coordination must be funded by participant fees, not investor capital. Its "retu
 
 ### AINEFF Constitutional Layer
 
+:::danger[AINEFF Constitutional Layer Is Absolutely Closed to Investment]
+A constitution that can be bought can be changed by the buyer. The constitutional layer must be immune to financial influence. This is not a policy -- it is a structural defense against incentive corruption.
+:::
+
 The AINEFF constitutional layer — which defines the rules, boundaries, standards, and governance protocols of the entire ecosystem — is absolutely closed to investment.
 
 **Why:** A constitution that can be bought can be changed by the buyer. The constitutional layer must be immune to financial influence. It is governed by its own processes, not by shareholder votes.
@@ -80,6 +88,10 @@ The AINEFF constitutional layer — which defines the rules, boundaries, standar
 ---
 
 ## Prohibited Investor Behaviors
+
+:::warning[Prohibited Behaviors Have Automatic Consequences]
+These are not guidelines -- they are enforced constraints. Violation triggers automatic investigation and, if confirmed, forced divestiture. There is no warning period.
+:::
 
 Even where investment is permitted, certain behaviors are structurally prohibited. These are not guidelines — they are enforced constraints with automatic consequences for violation.
 
@@ -218,6 +230,10 @@ Not all operations carry equal risk. The ecosystem uses risk-based pricing to en
 This creates a **virtuous cycle**: safer operations cost less, which rewards safety investment. Riskier operations cost more, which incentivizes risk reduction.
 
 ---
+
+:::warning[No Fundraising Before Sustainable Revenue]
+No entity within the ecosystem may raise external capital until it has demonstrated sustainable revenue. Premature fundraising creates growth-before-fit, investor-driven strategy, and burn-rate culture -- all pathologies the ecosystem is designed to prevent.
+:::
 
 ## No Fundraising Before Sustainable Revenue
 

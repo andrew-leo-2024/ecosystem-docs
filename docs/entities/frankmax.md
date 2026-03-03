@@ -212,3 +212,12 @@ At any point, anyone in the ecosystem can apply the Frankmax Test:
 If the answer is no, the decision has not been through Frankmax — regardless of how many approval emails, Slack messages, or meeting minutes exist.
 
 Governance is not documentation. Governance is **pre-committed accountability with forensic evidence**. That is what Frankmax produces.
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/systems/frankmax-15-systems" title="15 Systems of Frankmax" description="The 15 coordination systems that form Frankmax's neutral substrate — Record, Execution, Governance, Enforcement, Evidence, and more" badge="System" />
+
+<CrossReference to="/docs/products/enterprise-wedge" title="Enterprise Wedge Strategy" description="The 90-day proof engine for mid-market enterprise penetration that operationalizes Frankmax's governance capabilities" badge="Product" />

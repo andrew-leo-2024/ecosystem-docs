@@ -181,6 +181,10 @@ All capital requests above $5,000 require a completed [Pre-Incident Accountabili
 
 ### Maximum Exposure Rules
 
+:::warning[Maximum Exposure Limits Are Hard Constraints]
+These concentration limits prevent single-point-of-failure risk in capital allocation. Exceeding any limit triggers an automatic freeze on new allocations to the over-concentrated area.
+:::
+
 | Constraint | Limit | Purpose |
 |-----------|-------|---------|
 | **Per venture cell** | Maximum 30% of total ecosystem capital | Prevent single-cell concentration risk |
@@ -188,6 +192,10 @@ All capital requests above $5,000 require a completed [Pre-Incident Accountabili
 | **Per industry** | Maximum 40% of total ecosystem capital | Ensure sector diversification |
 | **Per jurisdiction** | Maximum 60% of total ecosystem capital | Ensure geographic diversification |
 | **Cash reserve** | Minimum 20% of total capital always liquid | Ensure operational continuity |
+
+:::danger[Cash Reserve Floor Is Non-Negotiable]
+The 20% liquid cash reserve ensures operational continuity during crises. Breaching this floor triggers an immediate capital freeze across all non-essential allocations until the reserve is restored.
+:::
 
 ### Diversification Requirements
 
@@ -208,6 +216,10 @@ The actual allocation will vary based on portfolio composition, but the diversif
 ## Monitoring
 
 ### Monthly Utilization Review
+
+:::tip[Monthly Reviews Catch Drift Before It Becomes Crisis]
+The monthly utilization review is the primary mechanism for detecting capital deployment problems early. Consistent attendance and honest reporting prevent small issues from compounding into kill-criteria breaches.
+:::
 
 **Owner:** Cell Lead + Finance Lead
 **Frequency:** Monthly (aligned with monthly audit cycle)
@@ -288,7 +300,11 @@ Every funded initiative must have pre-committed kill criteria. These are defined
 
 ### Kill Criteria Enforcement
 
-- Kill criteria are **automatically monitored** by ACTS
+:::warning[Kill Criteria Enforcement Is Automatic]
+When kill criteria are met, spending is automatically frozen. The Cell Lead has exactly 7 days to present a remediation plan or accept termination.
+:::
+
+Kill criteria are **automatically monitored** by ACTS
 - Warning alerts at 75% of threshold
 - Critical alerts at 90% of threshold
 - **Automatic freeze** when kill criteria are met — no new spending authorized
@@ -326,3 +342,12 @@ flowchart TD
 | **Cell share — base** | Monthly | After AINE share allocation |
 | **Cell share — performance** | Quarterly | Based on quarterly performance assessment |
 | **Growth reserve** | Monthly | Automatically allocated, requires Committee approval to access |
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/execution/capital-strategy" title="Capital Strategy" description="Investment boundaries, ownership rules, and the structural defense against incentive corruption that governs capital allocation" badge="Governance" />
+
+<CrossReference to="/docs/execution/financial-model" title="Financial Model" description="3-year financial projection with monthly detail, cost structure, margins, and break-even analysis informing capital decisions" badge="Product" />

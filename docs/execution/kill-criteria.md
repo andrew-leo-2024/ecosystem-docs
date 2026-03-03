@@ -99,6 +99,10 @@ Kill discipline is what converts the first scenario into the third.
 
 ## Mandatory Kill Triggers
 
+:::danger[Mandatory Kill Triggers Are Non-Negotiable]
+These triggers apply regardless of phase, regardless of context, and regardless of how promising the initiative appears. When a mandatory kill trigger fires, the response is immediate. There is no "persist" option for mandatory triggers.
+:::
+
 These triggers apply regardless of phase. They are non-negotiable.
 
 | # | Trigger | Threshold | Immediate Action |
@@ -109,6 +113,10 @@ These triggers apply regardless of phase. They are non-negotiable.
 | 4 | **Key dependency failure** | Critical tool, platform, or partner ceases to exist | Migrate within 14 days or kill dependent product |
 | 5 | **Legal/regulatory threat** | Cease and desist, lawsuit, or regulatory action | Pause affected activity, seek legal counsel immediately |
 | 6 | **Ethical violation** | Any activity that violates Atomic Constraint | Kill immediately. No exceptions. No "just this once." |
+
+:::danger[Atomic Constraint Violations Are Immediate Kill]
+Any activity that violates the Atomic Constraint is killed immediately. There are no exceptions, no mitigating circumstances, and no "just this once." The Atomic Constraint is the one rule that cannot be bent.
+:::
 | 7 | **Sunk cost escalation** | Spending more to justify past spending | Kill immediately. Past spending is irrelevant to future decisions. |
 
 ---
@@ -162,6 +170,10 @@ flowchart TD
 | **Pivot** | Goal is valid but approach is wrong. New approach identified. | New kill criteria set. 30-day max timeline. |
 | **Persist** | New data expected that could change the picture. | Hard deadline. No more than 30 additional days. |
 
+:::warning[Persist Is the Most Dangerous Response]
+"Persist" is the default choice of founders who cannot let go. Every persist decision must come with a hard deadline and specific data point that would change the decision. Maximum 30 additional days.
+:::
+
 **"Persist" is the most dangerous option.** It is the default choice of founders who cannot let go. Every "persist" decision must come with a hard deadline and specific data point that would change the decision.
 
 ---
@@ -196,6 +208,10 @@ Killing a venture, product, or feature is not just "stopping work." It requires 
 5. **Document the experience** -- improve operator selection criteria
 
 ---
+
+:::tip[Speed of Kill Is a Competitive Advantage]
+The faster you kill underperforming initiatives, the faster you reallocate resources to winners. Kill discipline is not about being harsh -- it is about being honest with your resource allocation.
+:::
 
 ## The Kill Discipline Manifesto
 

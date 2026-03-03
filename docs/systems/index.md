@@ -315,6 +315,56 @@ flowchart TB
 
 ---
 
+## Browse Systems
+
+<Tabs>
+<TabItem value="entity" label="By Owning Entity" default>
+
+**AINEFF (Constitutional)**
+- [12 Framework Systems](./aineff-framework-systems) — Ontology, taxonomy, axioms, constraints, protocols
+
+**AINEF (Factory)**
+- [21 Factory Systems](./ainef-factory-systems) — Genome design, agent foundry, policy compilation, exit
+- [Factory Byproducts](./factory-byproducts) — 11 service layers as natural byproducts
+
+**AINEG (Federation)**
+- [11 Group Systems](./aineg-group-systems) — Registry, risk, contagion firewalls, settlement
+
+**AINE (Enterprise)**
+- [16 Enterprise Systems](./aine-enterprise-systems) — Runtime, execution, authorization, compliance
+
+**FrankMax (Governance)**
+- [15 FrankMax Systems](./frankmax-15-systems) — Record, execution, governance, trust, meaning
+
+**External**
+- [6 External Oversight](./external-oversight) — Courts, regulators, insurance, transparency
+- [8 Skills Systems](./skills-systems) — Skill lifecycle: ontology → execution → decay
+
+</TabItem>
+<TabItem value="layer" label="By Architectural Layer">
+
+**Governance Layer** (defines what is permissible)
+- [12 AINEFF Framework Systems](./aineff-framework-systems)
+- [15 FrankMax Systems](./frankmax-15-systems)
+
+**Manufacturing Layer** (builds entities)
+- [21 AINEF Factory Systems](./ainef-factory-systems)
+- [Factory Byproducts](./factory-byproducts)
+
+**Coordination Layer** (federates and monitors)
+- [11 AINEG Group Systems](./aineg-group-systems)
+- [6 External Oversight](./external-oversight)
+
+**Execution Layer** (runs enterprises)
+- [16 AINE Enterprise Systems](./aine-enterprise-systems)
+- [8 Skills Systems](./skills-systems)
+
+</TabItem>
+
+</Tabs>
+
+---
+
 ## Navigating This Section
 
 | Page | What It Covers |

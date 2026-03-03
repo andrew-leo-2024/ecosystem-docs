@@ -12,6 +12,10 @@ custom_next_review: 2026-06-01
 
 # Governance Enforcement Architecture
 
+:::danger[Governance Is Enforcement, Not Advisory]
+Every constraint is machine-evaluated, every violation triggers an automatic response, and every response is itself audited. There are no warnings without consequences and no consequences without evidence.
+:::
+
 Governance in the AINEFF Ecosystem is not advisory. It is enforcement. Every constraint is machine-evaluated, every violation triggers an automatic response, and every response is itself audited. There are no warnings without consequences and no consequences without evidence.
 
 ---
@@ -337,7 +341,11 @@ graph TD
     Skills redistributed
     No single-entity concentration"]
 
-    R4 --> R5["Rung 5: EJECTION
+:::danger[Rungs 4 and 5 Are Permanent and Irreversible]
+Forced unbundling and ejection cannot be reversed. An ejected AINE must go through the full AINE Creation SOP to re-enter the ecosystem as a new entity.
+:::
+
+R4 --> R5["Rung 5: EJECTION
     ━━━━━━━━━━━━━━━━
     AINE removed from group
     All cross-AINE contracts terminated
@@ -357,6 +365,10 @@ graph TD
 ---
 
 ## 8 Illegal Monetization Patterns
+
+:::danger[These 8 Patterns Are Automatically Detected and Enforced]
+Any AINE engaging in these monetization patterns faces automatic detection, investigation, and sanctions up to and including ejection from the ecosystem.
+:::
 
 These patterns are monitored and automatically detected.
 
@@ -413,6 +425,10 @@ def detect_price_fixing(
 
 The governance enforcement system is regularly stress-tested against adversarial scenarios.
 
+:::warning[Stress Tests Reveal Enforcement Gaps Before Adversaries Do]
+The governance enforcement system is regularly stress-tested against adversarial scenarios. Failures discovered during stress tests are treated as P2 incidents requiring remediation.
+:::
+
 ### Stress Test Catalog
 
 | Test | Scenario | Expected Outcome |
@@ -457,3 +473,12 @@ stress_test:
     - destroy_test_aines: true
     - archive_test_evidence: true
 ```
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/entities/aineff" title="AINEFF — Constitutional Law Layer" description="The foundational charter entity whose governance constraints are enforced by the systems described in this architecture" badge="Entity" />
+
+<CrossReference to="/docs/vision/atomic-constraint" title="The Atomic Constraint" description="The irreducible principle — no irreversible action without a bound human liability bearer — that all enforcement systems ultimately protect" badge="Governance" />

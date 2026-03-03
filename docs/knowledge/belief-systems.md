@@ -28,6 +28,10 @@ A naive technologist assumes that systems are belief-neutral. They are not.
 - Every definition of "harm" embeds assumptions about value and suffering (ethical beliefs)
 - Every epistemological commitment in AI systems embeds assumptions about what counts as knowledge (epistemological beliefs)
 
+:::tip[Make the Substrate Visible]
+The AINEFF Ecosystem approach to belief systems: catalog everything, endorse nothing, make the substrate visible. An infrastructure protocol that ignores belief systems is not neutral -- it is unconsciously ideological, which is the most dangerous form of ideology because it cannot be examined.
+:::
+
 An infrastructure protocol that ignores this is not neutral — it is **unconsciously ideological**, which is the most dangerous form of ideology because it cannot be examined or challenged.
 
 The AINEFF Ecosystem's approach: **catalog everything, endorse nothing, make the substrate visible.**
@@ -252,6 +256,10 @@ The AINEFF Ecosystem takes a specific position on belief systems: **constitution
 - **Economic theory:** The ecosystem does not claim capitalism is better than socialism or vice versa
 - **Metaphysics:** The ecosystem does not take positions on consciousness, free will, or the nature of reality
 
+:::info[AINEFF Makes Explicit Commitments That Are Themselves Belief-Laden]
+Constitutional neutrality does not mean no commitments. AINEFF explicitly commits to human accountability, traceability, power monitoring, auditability, and knowledge fallibilism. These are themselves belief-laden positions -- the responsible approach is to name them, not pretend they do not exist.
+:::
+
 ### What AINEFF Is NOT Neutral About
 
 The ecosystem makes explicit commitments that are themselves belief-laden:
@@ -301,5 +309,9 @@ For every AINEFF system that touches human decision-making, these questions must
 3. **How does the JAL (Jurisdiction Adapter Layer) translate this system's requirements across belief-incompatible contexts?**
 4. **When was the last time this system's belief assumptions were audited?**
 5. **Who has the authority to challenge this system's belief commitments?**
+
+:::warning[Invisible Beliefs Create Unaccountable Ideology]
+If a system cannot identify the belief assumptions embedded in its design, it is operating on invisible beliefs -- which means it is operating on unaccountable ideology. This is precisely what the AINEFF Ecosystem was designed to prevent.
+:::
 
 If these questions cannot be answered, the system is operating on invisible beliefs — which means it is operating on unaccountable ideology. And unaccountable ideology is precisely what the AINEFF Ecosystem was designed to prevent.

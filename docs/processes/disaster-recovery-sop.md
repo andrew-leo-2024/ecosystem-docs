@@ -12,7 +12,13 @@ custom_next_review: 2026-06-01
 
 # SOP: Data Backup &amp; Disaster Recovery
 
-Data is not an asset until it is backed up, encrypted, geographically distributed, and proven recoverable. A backup that has never been tested is not a backup — it is a hope. This SOP defines the backup infrastructure, disaster recovery procedures, and recovery targets for every system tier in the AINEFF Ecosystem.
+Data is not an asset until it is backed up, encrypted, geographically distributed, and proven recoverable.
+
+:::warning[Untested Backups Are Not Backups]
+A backup that has never been restored successfully in a test environment provides false confidence. Monthly test restores are mandatory to prove recoverability.
+:::
+
+A backup that has never been tested is not a backup — it is a hope. This SOP defines the backup infrastructure, disaster recovery procedures, and recovery targets for every system tier in the AINEFF Ecosystem.
 
 Disaster recovery is not an event-driven process that you design when disaster strikes. It is a continuous operational discipline — backups run daily, test restores run monthly, and failover drills run quarterly. When the real disaster arrives, the response is rehearsed, not improvised.
 
@@ -94,6 +100,10 @@ Every system in the ecosystem is classified into one of three tiers based on bus
 
 | Tier | Definition | Examples | RTO | RPO |
 |------|-----------|----------|-----|-----|
+:::danger[Tier 1 RTO/RPO Targets Are Non-Negotiable]
+Tier 1 systems must recover within 1 hour (RTO) with no more than 15 minutes of data loss (RPO). Missing these targets means direct revenue loss and potential client SLA violations.
+:::
+
 | **Tier 1** | Revenue-generating systems; downtime directly causes revenue loss | Payment processing, client-facing applications, AI inference endpoints, CRM (active deals) | 1 hour | 15 minutes |
 | **Tier 2** | Operational systems; downtime degrades operations but does not immediately stop revenue | Internal dashboards, reporting systems, CI/CD pipeline, communication tools, monitoring | 4 hours | 1 hour |
 | **Tier 3** | Internal systems; downtime is inconvenient but operations continue | Documentation, training environments, development sandboxes, internal wikis | 24 hours | 4 hours |
@@ -146,6 +156,10 @@ Every system in the ecosystem is classified into one of three tiers based on bus
 - Encryption algorithm upgrades are evaluated annually
 
 ### Step 4: Geographic Redundancy
+
+:::warning[Backup and Encryption Keys Must Never Co-Locate]
+Backup data and encryption keys must reside in separate systems and separate regions. If both are compromised simultaneously, all backup data is irrecoverable.
+:::
 
 | Requirement | Specification |
 |------------|---------------|
@@ -243,6 +257,10 @@ When multiple systems are affected, recovery follows this priority order:
 
 | Priority | System Category | Rationale |
 |----------|----------------|-----------|
+:::tip[Recovery Priority Order Prevents Cascading Failures]
+Following the recovery priority order ensures that foundational services (auth, databases) are restored before dependent services. Recovering in the wrong order wastes time on services that cannot function without their dependencies.
+:::
+
 | 1 | Authentication and access control | Nothing works without auth |
 | 2 | Database systems (Tier 1) | Data foundation for all services |
 | 3 | Payment processing | Revenue protection |

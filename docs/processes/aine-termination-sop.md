@@ -27,6 +27,10 @@ An AINE termination is initiated when **any** of the following conditions are me
 | **Mandate expired** | Scheduled | Orderly |
 | **Regulatory order** | External (regulator) | Emergency |
 | **Constitutional violation** | Frankmax / AINEFF | Emergency |
+
+:::danger[Constitutional Violations Trigger Immediate Emergency Termination]
+A constitutional violation is the most severe trigger. When Frankmax or AINEFF declares a constitutional violation, emergency termination protocols activate immediately — there is no orderly wind-down option. The AINE is frozen, isolated, and terminated within 72 hours.
+:::
 | **Portfolio optimization** | AINEG / Capital Allocation Committee | Orderly |
 | **Voluntary dissolution** | AINE operators + AINEG approval | Orderly |
 
@@ -90,6 +94,10 @@ flowchart LR
 
 **Owner:** Data Steward
 **Duration:** 4–48 hours
+
+:::warning[Data Disposition Decisions Are Permanent]
+Once data is cryptographically destroyed, it cannot be recovered. The triage decision between Inherit, Archive, and Destroy must be made carefully — especially for data that may be needed for future legal proceedings or regulatory compliance.
+:::
 
 Every data asset is classified into one of three categories:
 
@@ -275,6 +283,10 @@ flowchart LR
     style EMERGENCY fill:#ff0000,color:#fff
 ```
 
+:::danger[Emergency Kill Is Irreversible]
+Once an emergency kill signal is issued, it cannot be recalled. All operations freeze instantly, network isolation is applied, and the AINE enters an unrecoverable shutdown state. This is by design — emergency kills exist precisely because the situation is too dangerous for deliberation.
+:::
+
 In an emergency kill:
 - **All operations freeze immediately** — no graceful task completion
 - **Network isolation** is applied to prevent contagion
@@ -288,6 +300,10 @@ In an emergency kill:
 
 Even after an AINE is terminated and archived, certain obligations persist:
 
+:::warning[Post-Termination Obligations Persist Indefinitely]
+Terminating an AINE does not terminate its legal, regulatory, or contractual obligations. These obligations persist for years — in some cases permanently. Failure to honor post-termination obligations creates legal liability for the ecosystem.
+:::
+
 | Obligation | Duration | Owner |
 |------------|----------|-------|
 | Client data retention (as contractually required) | Per contract | Data Steward |
@@ -295,3 +311,12 @@ Even after an AINE is terminated and archived, certain obligations persist:
 | Audit trail | Permanent | GAAGR Registry |
 | Regulatory reporting | Per regulatory requirement | Legal |
 | Post-mortem lessons in knowledge base | Permanent | Knowledge Team |
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/entities/aine" title="AINE — Single Productive Enterprise" description="The entity type this SOP terminates — every AINE is born with the conditions of its death already defined" badge="Entity" />
+
+<CrossReference to="/docs/execution/kill-criteria" title="Kill Discipline" description="The kill criteria framework that defines when and how ventures must be terminated — the most important discipline in the ecosystem" badge="Governance" />

@@ -18,7 +18,15 @@ Everything in the AINEFF Ecosystem derives from a single, irreducible principle.
 
 ## The Constraint
 
+:::danger[The Atomic Constraint -- Structural Invariant]
+This is the single, irreducible constraint from which all AINEFF governance derives. It is not a best practice, not a recommendation, and not optional. Systems that violate it produce predictable, catastrophic failure modes. No role in the ecosystem has permission to break this constraint.
+:::
+
 > **"No system may execute an irreversible action unless a single, identifiable human liability bearer is bound to that action at execution time."**
+
+:::info[Word-by-Word Analysis]
+Every word in the Atomic Constraint is load-bearing. Removing or weakening any single word fundamentally changes the constraint and opens a pathway to unaccountable action.
+:::
 
 Read it again. Every word is load-bearing:
 
@@ -39,6 +47,10 @@ Read it again. Every word is load-bearing:
 ---
 
 ## Why This Is the Kernel
+
+:::note[The Generative Kernel]
+This is not one principle among many. It is the generative kernel from which the entire system of governance can be derived -- comparable to how Euclid derived geometry from five postulates.
+:::
 
 This is not one principle among many. It is the **generative kernel** — the single axiom from which the entire system of governance can be derived, the way Euclid derived geometry from five postulates.
 
@@ -93,6 +105,10 @@ flowchart TB
 ---
 
 ## Why This Constraint Is Fundamental
+
+:::danger[Violation Produces Catastrophic Failure]
+Systems that execute irreversible actions without bound liability are unaccountable by definition. They do not fail gracefully -- they fail catastrophically, because there is no feedback mechanism to detect drift before it becomes disaster.
+:::
 
 This constraint is not optional, not aspirational, and not a "best practice." It is **structural** — meaning that systems which violate it produce predictable, catastrophic failure modes.
 
@@ -223,3 +239,12 @@ Good governance says: "We should have clear accountability."
 The Atomic Constraint says: "The system will not execute without it."
 
 The difference is the difference between a suggestion and a law of physics.
+
+
+---
+
+## Related Documents
+
+<CrossReference to="/docs/architecture/governance-enforcement" title="Governance Enforcement Architecture" description="The enforcement systems that operationalize the Atomic Constraint through machine-evaluated constraints and automatic response ladders" badge="Architecture" />
+
+<CrossReference to="/docs/execution/kill-criteria" title="Kill Discipline" description="The kill criteria framework derived from the Atomic Constraint — ensuring every venture has pre-committed termination conditions with bound liability bearers" badge="Governance" />
