@@ -73,6 +73,137 @@ wge:
   label: "WGE"
   description: "Workforce Governance Engine"
 
+# Sovereign Deployment
+sovereign:
+  label: "Sovereign"
+  description: "Sovereign-grade deployment architecture for nation-scale and institutional audiences"
+entropy:
+  label: "Entropy"
+  description: "Entropy metabolism, anti-entropy systems, and thermodynamic governance models"
+thermodynamics:
+  label: "Thermodynamics"
+  description: "Thermodynamic framing of institutional decay, coordination cost, and system stability"
+metrics:
+  label: "Metrics"
+  description: "Quantitative scoring, risk matrices, and measurement frameworks"
+
+# Sovereign Audience Tags
+family-offices:
+  label: "Family Offices"
+  description: "Multi-generational wealth structures, family governance, and dynastic capital management"
+corporate:
+  label: "Corporate"
+  description: "Corporate governance, multinational operations, and enterprise-scale coordination"
+multinational:
+  label: "Multinational"
+  description: "Cross-border corporate operations, regulatory divergence, and global coordination"
+legacy:
+  label: "Legacy"
+  description: "Legacy enterprise transformation, technical debt, and organizational inertia"
+enterprise:
+  label: "Enterprise"
+  description: "Enterprise-scale deployment, organizational architecture, and institutional operations"
+banking:
+  label: "Banking"
+  description: "Banking institutions, core banking systems, and financial regulation"
+insurance:
+  label: "Insurance"
+  description: "Insurance carriers, actuarial systems, and risk underwriting"
+wealth:
+  label: "Wealth"
+  description: "Wealth management, capital preservation, and inter-generational transfer"
+industry:
+  label: "Industry"
+  description: "Industry bodies, trade associations, and standards organizations"
+standards:
+  label: "Standards"
+  description: "Standards-setting, certification, and industry-wide protocol development"
+education:
+  label: "Education"
+  description: "Universities, R&D institutions, and knowledge production organizations"
+research:
+  label: "Research"
+  description: "Research organizations, labs, and academic institutions"
+think-tanks:
+  label: "Think Tanks"
+  description: "Policy research and advisory institutions"
+consulting:
+  label: "Consulting"
+  description: "Consulting firms and professional services organizations"
+system-integrators:
+  label: "System Integrators"
+  description: "Technology system integrators and implementation partners"
+investors:
+  label: "Investors"
+  description: "Institutional investors, family offices, and sovereign wealth"
+venture-capital:
+  label: "Venture Capital"
+  description: "Venture capital firms, syndicates, and growth equity"
+founders:
+  label: "Founders"
+  description: "High-power founders and company builders"
+operators:
+  label: "Operators"
+  description: "Operational leaders and execution-focused executives"
+high-risk:
+  label: "High-Risk"
+  description: "High-risk individuals requiring sovereign-grade personal infrastructure"
+individuals:
+  label: "Individuals"
+  description: "Individual-level deployment architecture"
+
+# State & Institutional Tags
+government:
+  label: "Government"
+  description: "Government ministries, public sector, and state-level coordination"
+defense:
+  label: "Defense"
+  description: "Defense, security, and intelligence community operations"
+security:
+  label: "Security"
+  description: "National security, cybersecurity, and threat-adaptive systems"
+intelligence:
+  label: "Intelligence"
+  description: "Intelligence agencies and classified operations coordination"
+infrastructure:
+  label: "Infrastructure"
+  description: "National critical infrastructure — energy, transport, telecom, water"
+critical-systems:
+  label: "Critical Systems"
+  description: "Mission-critical systems, SCADA/ICS, and high-availability operations"
+international:
+  label: "International"
+  description: "International institutions, multilateral bodies, and cross-sovereign coordination"
+institutions:
+  label: "Institutions"
+  description: "Institutional governance, mandate enforcement, and organizational resilience"
+dynasties:
+  label: "Dynasties"
+  description: "Dynastic governance, royal households, and sovereign wealth structures"
+royal-houses:
+  label: "Royal Houses"
+  description: "Royal family governance, succession protocols, and sovereign legitimacy"
+
+# Deployment & Architecture Tags
+deployment:
+  label: "Deployment"
+  description: "Deployment architecture, rollout strategy, and implementation sequencing"
+cross-audience:
+  label: "Cross-Audience"
+  description: "Cross-audience coordination, shared entropy patterns, and meta-stabilization"
+stabilization:
+  label: "Stabilization"
+  description: "System stabilization, entropy dampening, and resilience engineering"
+roadmap:
+  label: "Roadmap"
+  description: "Deployment timelines, milestone tracking, and execution sequencing"
+resilience:
+  label: "Resilience"
+  description: "Systemic resilience, shock absorption, and failure containment"
+long-term:
+  label: "Long-term"
+  description: "Multi-year strategic architecture and structural sovereignty design"
+
 # Cross-cutting
 atomic-constraint:
   label: "Atomic Constraint"

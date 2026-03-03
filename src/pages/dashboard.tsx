@@ -12,6 +12,7 @@ const SECTIONS = [
   { name: 'Knowledge (Substrate)', path: 'knowledge', count: 10 },
   { name: 'SOPs & Processes', path: 'processes', count: 24 },
   { name: 'Guides & Maps', path: 'guides', count: 12 },
+  { name: 'Sovereign Deployment', path: 'sovereign', count: 21 },
 ];
 
 const TOTAL = SECTIONS.reduce((sum, s) => sum + s.count, 0);
